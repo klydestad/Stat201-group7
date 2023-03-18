@@ -1,0 +1,1589 @@
+TYPE,YEAR,MONTH,DAY,HOUR,MINUTE,HUNDRED_BLOCK,NEIGHBOURHOOD,X,Y
+Theft from Vehicle,2021,9,23,14,0,19XX VENABLES ST,Grandview-Woodland,495353.634,5458204.7898
+Theft from Vehicle,2021,10,11,20,0,19XX WOODLAND DR,Grandview-Woodland,494644.9297,5457203.9455
+Theft from Vehicle,2021,12,9,22,0,19XX WOODLAND DR,Grandview-Woodland,494654.3177,5457222.2051
+Theft from Vehicle,2021,10,8,2,0,1XX GARDEN DR,Grandview-Woodland,495803.2628,5458981.2235
+Theft from Vehicle,2021,4,1,19,0,1XX GARDEN DR,Grandview-Woodland,495803.6476,5458994.7734
+Theft from Vehicle,2021,6,7,18,30,1XX SEMLIN DR,Grandview-Woodland,495381.889,5459016.0179
+Theft from Vehicle,2021,1,14,15,0,1XX TEMPLETON DR,Grandview-Woodland,495652.2267,5458946.1336
+Theft from Vehicle,2021,7,25,22,0,1XX TEMPLETON DR,Grandview-Woodland,495661.7836,5459000.6234
+Theft from Vehicle,2021,5,24,3,13,20XX CHARLES ST,Grandview-Woodland,495403.3284,5457810.0564
+Theft from Vehicle,2021,8,19,4,25,20XX CHARLES ST,Grandview-Woodland,495403.3284,5457810.0564
+Theft from Vehicle,2021,8,27,0,0,20XX CLARK DR,Grandview-Woodland,494372.7222,5457067.5138
+Theft from Vehicle,2021,9,9,5,45,20XX E 2ND AVE,Grandview-Woodland,495406.3479,5457327.2016
+Theft from Vehicle,2021,4,8,21,0,20XX E 4TH AVE,Grandview-Woodland,495387.1153,5457116.6303
+Theft from Vehicle,2021,7,29,2,41,20XX E 5TH AVE,Grandview-Woodland,495358.0678,5457016.7788
+Theft from Vehicle,2021,7,10,21,0,20XX E 5TH AVE,Grandview-Woodland,495363.4164,5457025.8648
+Theft from Vehicle,2021,9,19,19,0,20XX E 5TH AVE,Grandview-Woodland,495451.1417,5457015.7597
+Theft from Vehicle,2021,3,16,21,0,20XX E GEORGIA ST,Grandview-Woodland,495461.8805,5458401.8928
+Theft from Vehicle,2021,7,31,0,0,20XX E HASTINGS ST,Grandview-Woodland,495378.897,5458712.4574
+Theft from Vehicle,2021,2,6,21,0,20XX E HASTINGS ST,Grandview-Woodland,495387.0442,5458721.4985
+Theft from Vehicle,2021,7,22,3,0,20XX E PENDER ST,Grandview-Woodland,495377.2468,5458606.8507
+Theft from Vehicle,2021,9,13,1,52,20XX FRANKLIN ST,Grandview-Woodland,495378.803,5458816.1015
+Theft from Vehicle,2021,9,11,23,0,20XX FRANKLIN ST,Grandview-Woodland,495436.3752,5458824.4243
+Theft from Vehicle,2021,11,16,0,0,20XX FRANKLIN ST,Grandview-Woodland,495436.3752,5458824.4243
+Theft from Vehicle,2021,11,26,8,0,20XX FRANKLIN ST,Grandview-Woodland,495436.3752,5458824.4243
+Theft from Vehicle,2021,12,19,13,0,20XX GRANT ST,Grandview-Woodland,495367.3185,5457606.8921
+Theft from Vehicle,2021,5,16,2,0,20XX GRAVELEY ST,Grandview-Woodland,495443.3947,5457517.3857
+Theft from Vehicle,2021,7,15,6,7,20XX KITCHENER ST,Grandview-Woodland,495365.846,5457700.7487
+Theft from Vehicle,2021,4,13,1,0,20XX KITCHENER ST,Grandview-Woodland,495368.6273,5457700.6745
+Theft from Vehicle,2021,9,5,20,0,20XX LAKEWOOD DR,Grandview-Woodland,495489.3964,5457030.8352
+Theft from Vehicle,2021,9,5,20,0,20XX PARKER ST,Grandview-Woodland,495432.992,5458111.3279
+Theft from Vehicle,2021,4,25,14,30,20XX SEMLIN DR,Grandview-Woodland,495357.0979,5457116.5092
+Theft from Vehicle,2021,1,30,11,30,20XX VENABLES ST,Grandview-Woodland,495399.7933,5458204.3098
+Theft from Vehicle,2021,4,27,22,0,20XX VENABLES ST,Grandview-Woodland,495439.9104,5458204.107
+Theft from Vehicle,2021,2,13,0,0,20XX VENABLES ST,Grandview-Woodland,495447.9338,5458204.0664
+Theft from Vehicle,2021,6,18,15,0,20XX VENABLES ST,Grandview-Woodland,495453.3289,5458213.1833
+Theft from Vehicle,2021,1,7,18,0,21XX E 3RD AVE,Grandview-Woodland,495604.0561,5457214.5361
+Theft from Vehicle,2021,5,25,21,0,21XX E 3RD AVE,Grandview-Woodland,495604.0561,5457214.5361
+Theft from Vehicle,2021,2,26,17,0,21XX E 4TH AVE,Grandview-Woodland,495539.9079,5457106.9829
+Theft from Vehicle,2021,4,11,2,0,21XX E 6TH AVE,Grandview-Woodland,495524.5984,5456922.398
+Theft from Vehicle,2021,2,2,10,42,21XX E 6TH AVE,Grandview-Woodland,495540.5958,5456913.149
+Theft from Vehicle,2021,12,19,0,0,21XX E 7TH AVE,Grandview-Woodland,495497.6344,5456816.4657
+Theft from Vehicle,2021,12,18,20,0,21XX E 7TH AVE,Grandview-Woodland,495511.0295,5456816.549
+Theft from Vehicle,2021,5,17,1,19,21XX E 8TH AVE,Grandview-Woodland,495501.1395,5456713.4365
+Theft from Vehicle,2021,10,9,23,53,21XX E 8TH AVE,Grandview-Woodland,495581.4382,5456721.3098
+Theft from Vehicle,2021,3,9,17,30,21XX E 8TH AVE,Grandview-Woodland,495624.1945,5456711.4876
+Theft from Vehicle,2021,5,28,4,30,21XX E BROADWAY AVE,Grandview-Woodland,495594.314,5456616.3053
+Theft from Vehicle,2021,12,15,17,0,21XX FERNDALE ST,Grandview-Woodland,495516.6965,5458542.6242
+Theft from Vehicle,2021,1,24,12,0,21XX FRANKLIN ST,Grandview-Woodland,495520.827,5458814.052
+Theft from Vehicle,2021,10,24,17,30,21XX GRANT ST,Grandview-Woodland,495506.4951,5457604.9929
+Theft from Vehicle,2021,7,27,0,0,21XX GRANT ST,Grandview-Woodland,495560.8802,5457605.2396
+Theft from Vehicle,2021,2,7,2,39,21XX GRAVELEY ST,Grandview-Woodland,495515.9309,5457516.2498
+Theft from Vehicle,2021,4,23,2,30,21XX NAPIER ST,Grandview-Woodland,495619.7117,5458011.812
+Theft from Vehicle,2021,10,29,21,0,21XX OXFORD ST,Grandview-Woodland,495589.7081,5459215.3714
+Theft from Vehicle,2021,12,7,16,30,21XX PANDORA ST,Grandview-Woodland,495563.3592,5458925.4883
+Theft from Vehicle,2021,5,2,0,0,21XX PANDORA ST,Grandview-Woodland,495587.1626,5458914.5086
+Theft from Vehicle,2021,11,14,12,0,21XX PARKER ST,Grandview-Woodland,495510.4898,5458098.6256
+Theft from Vehicle,2021,7,31,22,0,21XX PARKER ST,Grandview-Woodland,495601.8977,5458097.1017
+Theft from Vehicle,2021,9,21,18,0,21XX SEMLIN DR,Grandview-Woodland,495355.519,5457019.8652
+Theft from Vehicle,2021,12,9,23,5,21XX SEMLIN DR,Grandview-Woodland,495355.519,5457019.8652
+Theft from Vehicle,2021,4,23,5,29,21XX TEMPLETON DR,Grandview-Woodland,495637.4505,5457016.489
+Theft from Vehicle,2021,2,15,6,50,21XX VENABLES ST,Grandview-Woodland,495515.2461,5458203.7054
+Theft from Vehicle,2021,7,17,12,45,21XX VENABLES ST,Grandview-Woodland,495525.8442,5458203.6212
+Theft from Vehicle,2021,10,22,23,0,21XX VENABLES ST,Grandview-Woodland,495533.9509,5458212.7008
+Theft from Vehicle,2021,10,16,10,0,21XX WILLIAM ST,Grandview-Woodland,495537.5662,5457908.5553
+Theft from Vehicle,2021,5,22,7,29,22XX CHARLES ST,Grandview-Woodland,495719.8419,5457805.1959
+Theft from Vehicle,2021,8,7,18,0,22XX DUNDAS ST,Grandview-Woodland,495664.7508,5459114.1125
+Theft from Vehicle,2021,2,22,12,0,22XX DUNDAS ST,Grandview-Woodland,495737.462,5459122.3933
+Theft from Vehicle,2021,4,12,1,30,22XX E 4TH AVE,Grandview-Woodland,495639.1366,5457107.1
+Theft from Vehicle,2021,9,6,21,0,22XX E 4TH AVE,Grandview-Woodland,495684.853,5457116.7843
+Theft from Vehicle,2021,4,24,23,0,22XX E 4TH AVE,Grandview-Woodland,495760.4361,5457108.5319
+Theft from Vehicle,2021,1,25,1,27,22XX E 5TH AVE,Grandview-Woodland,495675.1136,5457022.234
+Theft from Vehicle,2021,12,19,5,15,22XX E 7TH AVE,Grandview-Woodland,495706.5414,5456826.9085
+Theft from Vehicle,2021,9,14,18,0,22XX E 8TH AVE,Grandview-Woodland,495647.4705,5456711.1196
+Theft from Vehicle,2021,4,5,14,30,22XX E HASTINGS ST,Grandview-Woodland,495751.574,5458710.1246
+Theft from Vehicle,2021,1,19,20,52,22XX ETON ST,Grandview-Woodland,495668.8766,5459416.1886
+Theft from Vehicle,2021,1,21,4,50,22XX ETON ST,Grandview-Woodland,495700.1523,5459415.9438
+Theft from Vehicle,2021,1,2,22,0,22XX FERNDALE ST,Grandview-Woodland,495706.9729,5458541.0079
+Theft from Vehicle,2021,8,29,2,0,22XX FERNDALE ST,Grandview-Woodland,495712.4776,5458550.0878
+Theft from Vehicle,2021,8,29,2,30,22XX FERNDALE ST,Grandview-Woodland,495712.4776,5458550.0878
+Theft from Vehicle,2021,3,17,7,40,22XX FRANKLIN ST,Grandview-Woodland,495660.7292,5458811.6143
+Theft from Vehicle,2021,9,12,8,55,22XX FRANKLIN ST,Grandview-Woodland,495697.0454,5458810.9228
+Theft from Vehicle,2021,6,29,2,0,22XX GRANT ST,Grandview-Woodland,495650.6182,5457612.1186
+Theft from Vehicle,2021,8,20,23,0,22XX GRANT ST,Grandview-Woodland,495666.8525,5457602.7655
+Theft from Vehicle,2021,9,13,23,0,22XX GRANT ST,Grandview-Woodland,495710.4569,5457602.2059
+Theft from Vehicle,2021,4,6,10,21,22XX GRAVELEY ST,Grandview-Woodland,495643.5036,5457514.2784
+Theft from Vehicle,2021,7,7,19,0,22XX MCGILL ST,Grandview-Woodland,495643.5984,5459517.871
+Theft from Vehicle,2021,2,12,22,0,22XX MCGILL ST,Grandview-Woodland,495660.5355,5459526.7353
+Theft from Vehicle,2021,9,5,4,30,22XX PANDORA ST,Grandview-Woodland,495663.5731,5458914.2153
+Theft from Vehicle,2021,9,24,10,0,22XX PARKER ST,Grandview-Woodland,495653.6353,5458096.4444
+Theft from Vehicle,2021,4,1,18,0,22XX TRIUMPH ST,Grandview-Woodland,495695.8983,5459023.8867
+Theft from Vehicle,2021,3,2,0,0,22XX TURNER ST,Grandview-Woodland,495753.6787,5458490.2648
+Theft from Vehicle,2021,2,11,6,0,22XX WALL ST,Grandview-Woodland,495685.7737,5459608.3743
+Theft from Vehicle,2021,5,4,12,24,22XX WALL ST,Grandview-Woodland,495685.7737,5459608.3743
+Theft from Vehicle,2021,5,22,22,0,23XX CLARK DR,Grandview-Woodland,494366.6268,5456820.505
+Theft from Vehicle,2021,5,15,12,30,23XX DUNDAS ST,Grandview-Woodland,495839.9944,5459121.0154
+Theft from Vehicle,2021,8,24,17,30,23XX E 1ST AVE,Grandview-Woodland,495793.5787,5457423.5612
+Theft from Vehicle,2021,4,10,20,30,23XX E 4TH AVE,Grandview-Woodland,495790.7816,5457108.7342
+Theft from Vehicle,2021,7,9,3,21,23XX E HASTINGS ST,Grandview-Woodland,495881.1223,5458718.8664
+Theft from Vehicle,2021,1,1,14,0,23XX FRANKLIN ST,Grandview-Woodland,495816.7698,5458809.3077
+Theft from Vehicle,2021,8,29,20,0,23XX GRANT ST,Grandview-Woodland,495793.6083,5457601.2718
+Theft from Vehicle,2021,9,2,17,0,23XX MCGILL ST,Grandview-Woodland,495876.9584,5459514.2619
+Theft from Vehicle,2021,6,25,3,0,23XX OXFORD ST,Grandview-Woodland,495865.9208,5459213.1679
+Theft from Vehicle,2021,8,20,16,30,23XX PARKER ST,Grandview-Woodland,495818.8375,5458108.3538
+Theft from Vehicle,2021,9,12,12,0,23XX TRINITY ST,Grandview-Woodland,495806.6507,5459616.4353
+Theft from Vehicle,2021,5,27,23,0,23XX WALL ST,Grandview-Woodland,495762.4191,5459683.3095
+Theft from Vehicle,2021,7,25,16,0,23XX WOODLAND DR,Grandview-Woodland,494648.5132,5456803.9458
+Theft from Vehicle,2021,1,23,23,0,24XX GARDEN DR,Grandview-Woodland,495764.2801,5456638.7317
+Theft from Vehicle,2021,8,14,18,0,24XX GARDEN DR,Grandview-Woodland,495773.8433,5456688.3355
+Theft from Vehicle,2021,5,19,23,30,24XX GARDEN DR,Grandview-Woodland,495774.0452,5456712.2579
+Theft from Vehicle,2021,4,30,8,0,2XX CLARK DR,Grandview-Woodland,494405.9976,5458925.7315
+Theft from Vehicle,2021,4,15,17,0,2XX COMMERCIAL DR,Grandview-Woodland,494888.2407,5458922.8937
+Theft from Vehicle,2021,9,9,20,30,2XX LAKEWOOD DR,Grandview-Woodland,495517.6441,5458913.4552
+Theft from Vehicle,2021,3,4,18,0,2XX N GARDEN DR,Grandview-Woodland,495797.7622,5459345.7633
+Theft from Vehicle,2021,1,26,15,15,2XX VICTORIA DR,Grandview-Woodland,495237.0456,5458901.4484
+Theft from Vehicle,2021,3,1,1,0,3XX N GARDEN DR,Grandview-Woodland,495798.0016,5459492.6736
+Theft from Vehicle,2021,2,4,17,0,3XX SEMLIN DR,Grandview-Woodland,495376.4359,5458728.6139
+Theft from Vehicle,2021,10,15,12,30,3XX VICTORIA DR,Grandview-Woodland,495236.1738,5458796.0737
+Theft from Vehicle,2021,7,12,16,12,4XX MCLEAN DR,Grandview-Woodland,494614.0325,5458725.641
+Theft from Vehicle,2021,7,29,9,46,4XX MCLEAN DR,Grandview-Woodland,494614.0325,5458725.641
+Theft from Vehicle,2021,2,5,0,30,4XX SALSBURY DR,Grandview-Woodland,495037.8042,5458721.1364
+Theft from Vehicle,2021,12,2,18,30,5XX MCLEAN DR,Grandview-Woodland,494613.711,5458572.4379
+Theft from Vehicle,2021,8,13,10,55,6XX COMMERCIAL DR,Grandview-Woodland,494870.8193,5458484.0074
+Theft from Vehicle,2021,8,13,4,9,6XX COMMERCIAL DR,Grandview-Woodland,494879.8448,5458476.159
+Theft from Vehicle,2021,4,1,5,0,6XX COMMERCIAL DR,Grandview-Woodland,494879.9035,5458480.0136
+Theft from Vehicle,2021,7,12,1,6,6XX SALSBURY DR,Grandview-Woodland,495024.524,5458440.738
+Theft from Vehicle,2021,3,5,22,6,6XX SALSBURY DR,Grandview-Woodland,495034.6719,5458507.7952
+Theft from Vehicle,2021,1,2,1,0,6XX WOODLAND DR,Grandview-Woodland,494717.7266,5458498.1993
+Theft from Vehicle,2021,7,4,18,10,7XX WOODLAND DR,Grandview-Woodland,494715.5369,5458397.8777
+Theft from Vehicle,2021,5,20,0,0,8XX COMMERCIAL DR,Grandview-Woodland,494879.2202,5458236.9068
+Theft from Vehicle,2021,11,13,5,21,8XX MCLEAN DR,Grandview-Woodland,494600.9523,5458299.7902
+Theft from Vehicle,2021,2,21,16,0,8XX SALSBURY DR,Grandview-Woodland,495022.5368,5458221.0694
+Theft from Vehicle,2021,11,26,23,30,8XX SALSBURY DR,Grandview-Woodland,495023.3152,5458248.5732
+Theft from Vehicle,2021,2,24,18,0,8XX SEMLIN DR,Grandview-Woodland,495362.9449,5458274.7741
+Theft from Vehicle,2021,1,16,20,0,8XX SEMLIN DR,Grandview-Woodland,495371.5892,5458298.835
+Theft from Vehicle,2021,7,3,19,30,9XX SALSBURY DR,Grandview-Woodland,495091.4225,5458205.3215
+Theft from Vehicle,2021,1,1,17,0,ADANAC ST / GARDEN DR,Grandview-Woodland,495790.1932,5458303.0276
+Theft from Vehicle,2021,3,20,12,0,CHARLES ST / NANAIMO ST,Grandview-Woodland,495883.8267,5457798.8426
+Theft from Vehicle,2021,9,14,1,0,CHARLES ST / SALSBURY DR,Grandview-Woodland,495080.9312,5457809.8739
+Theft from Vehicle,2021,12,7,20,0,CLARK DR / E 2ND AVE,Grandview-Woodland,494370.3677,5457335.5012
+Theft from Vehicle,2021,12,14,17,0,CLARK DR / E GEORGIA ST,Grandview-Woodland,494382.9313,5458425.1052
+Theft from Vehicle,2021,5,15,11,15,CLARK DR / FRANCES ST,Grandview-Woodland,494385.4206,5458526.6349
+Theft from Vehicle,2021,11,8,12,0,CLARK DR / NAPIER ST,Grandview-Woodland,494377.4436,5458023.2732
+Theft from Vehicle,2021,11,17,10,0,COMMERCIAL DR / E 5TH AVE,Grandview-Woodland,494927.46,5457005.0385
+Theft from Vehicle,2021,3,9,8,30,COMMERCIAL DR / E PENDER ST,Grandview-Woodland,494877.6344,5458616.8141
+Theft from Vehicle,2021,1,18,14,15,COMMERCIAL DR / KITCHENER ST,Grandview-Woodland,494936.513,5457711.1521
+Theft from Vehicle,2021,9,29,0,0,COMMERCIAL DR / NAPIER ST,Grandview-Woodland,494941.3236,5458014.1765
+Theft from Vehicle,2021,3,10,13,0,COMMERCIAL DR / PANDORA ST,Grandview-Woodland,494883.7862,5458927.9976
+Theft from Vehicle,2021,2,15,19,0,COMMERCIAL DR / POWELL ST,Grandview-Woodland,494883.8523,5459014.7108
+Theft from Vehicle,2021,4,25,16,0,COTTON DR / GRAVELEY ST,Grandview-Woodland,494794.2307,5457530.4215
+Theft from Vehicle,2021,8,13,19,30,COTTON DR / KITCHENER ST,Grandview-Woodland,494796.9197,5457712.2718
+Theft from Vehicle,2021,8,29,23,30,DUNDAS ST / TEMPLETON DR,Grandview-Woodland,495657.7466,5459118.7679
+Theft from Vehicle,2021,12,4,9,32,DUNDAS ST / TEMPLETON DR,Grandview-Woodland,495657.7466,5459118.7679
+Theft from Vehicle,2021,7,24,18,0,E 3RD AVE / VICTORIA DR,Grandview-Woodland,495212.8044,5457224.0666
+Theft from Vehicle,2021,5,10,19,0,E 7TH AVE / SEMLIN DR,Grandview-Woodland,495349.5394,5456821.9013
+Theft from Vehicle,2021,7,27,21,30,E BROADWAY AVE / NANAIMO ST,Grandview-Woodland,495882.5349,5456597.9017
+Theft from Vehicle,2021,12,23,15,20,E HASTINGS ST / LAKEWOOD DR,Grandview-Woodland,495513.4366,5458715.3232
+Theft from Vehicle,2021,11,23,21,0,E HASTINGS ST / NANAIMO ST,Grandview-Woodland,495887.5446,5458714.2743
+Theft from Vehicle,2021,11,9,11,28,E HASTINGS ST / NANAIMO ST,Grandview-Woodland,495887.5447,5458714.2743
+Theft from Vehicle,2021,4,8,13,30,E HASTINGS ST / SALSBURY DR,Grandview-Woodland,495033.2589,5458722.9728
+Theft from Vehicle,2021,8,13,9,30,E PENDER ST / SALSBURY DR,Grandview-Woodland,495031.6624,5458614.1937
+Theft from Vehicle,2021,1,25,19,0,E PENDER ST / VICTORIA DR,Grandview-Woodland,495229.7805,5458611.8948
+Theft from Vehicle,2021,1,2,15,30,FRANKLIN ST / MCLEAN DR,Grandview-Woodland,494611.3882,5458833.1957
+Theft from Vehicle,2021,8,23,20,0,GARDEN DR / KITCHENER ST,Grandview-Woodland,495783.9549,5457699.2426
+Theft from Vehicle,2021,2,7,14,0,GARDEN DR / TRIUMPH ST,Grandview-Woodland,495799.7446,5459018.415
+Theft from Vehicle,2021,4,28,9,0,GRANT ST / MCLEAN DR,Grandview-Woodland,494516.4138,5457638.3489
+Theft from Vehicle,2021,12,10,8,53,GRANT ST / WOODLAND DR,Grandview-Woodland,494657.8826,5457634.3522
+Theft from Vehicle,2021,9,18,21,0,GRAVELEY ST / MCLEAN DR,Grandview-Woodland,494514.7313,5457534.673
+Theft from Vehicle,2021,4,5,0,0,GRAVELEY ST / TEMPLETON DR,Grandview-Woodland,495639.293,5457518.9143
+Theft from Vehicle,2021,2,14,21,0,KITCHENER ST / SALSBURY DR,Grandview-Woodland,495079.4089,5457710.0997
+Theft from Vehicle,2021,2,16,1,30,KITCHENER ST / TEMPLETON DR,Grandview-Woodland,495642.274,5457700.542
+Theft from Vehicle,2021,5,31,14,0,LAKEWOOD DR / PANDORA ST,Grandview-Woodland,495515.1672,5458919.3309
+Theft from Vehicle,2021,6,29,4,0,LILY ST / NAPIER ST,Grandview-Woodland,495303.4291,5458008.3302
+Theft from Vehicle,2021,5,12,19,20,N GARDEN DR / TRINITY ST,Grandview-Woodland,495804.2262,5459621.0686
+Theft from Vehicle,2021,11,3,14,0,N NANAIMO ST / OXFORD ST,Grandview-Woodland,495889.1209,5459217.4099
+Theft from Vehicle,2021,8,7,12,40,NAPIER ST / VICTORIA DR,Grandview-Woodland,495224.3063,5458011.789
+Theft from Vehicle,2021,10,5,5,30,SALSBURY DR / VENABLES ST,Grandview-Woodland,495026.8544,5458212.0268
+Theft from Vehicle,2021,5,2,22,0,SEMLIN DR / TRIUMPH ST,Grandview-Woodland,495377.42,5459021.0106
+Theft from Vehicle,2021,2,7,18,0,VENABLES ST / WOODLAND DR,Grandview-Woodland,494665.6454,5458220.1472
+Theft from Vehicle,2021,3,24,20,0,X N GARDEN DR,Grandview-Woodland,495794.4349,5459124.0942
+Theft of Bicycle,2021,5,28,23,0,10XX ODLUM DR,Grandview-Woodland,494485.128,5458097.8643
+Theft of Bicycle,2021,8,4,12,0,11XX COMMERCIAL DR,Grandview-Woodland,494936.5535,5457995.6223
+Theft of Bicycle,2021,4,16,13,1,11XX VICTORIA DR,Grandview-Woodland,495228.2038,5457965.021
+Theft of Bicycle,2021,7,17,19,30,13XX E 3RD AVE,Grandview-Woodland,494377.5729,5457230.3243
+Theft of Bicycle,2021,3,2,8,45,13XX E 7TH AVE,Grandview-Woodland,494453.6754,5456835.7522
+Theft of Bicycle,2021,6,30,21,0,14XX E 3RD AVE,Grandview-Woodland,494543.891,5457228.8726
+Theft of Bicycle,2021,2,1,12,0,14XX E 7TH AVE,Grandview-Woodland,494535.6496,5456824.9358
+Theft of Bicycle,2021,3,30,0,0,14XX E 7TH AVE,Grandview-Woodland,494561.3291,5456833.5541
+Theft of Bicycle,2021,10,20,15,0,14XX E 7TH AVE,Grandview-Woodland,494574.7256,5456824.1331
+Theft of Bicycle,2021,2,7,14,0,14XX E 8TH AVE,Grandview-Woodland,494534.4692,5456725.1911
+Theft of Bicycle,2021,4,5,8,0,14XX FRANCES ST,Grandview-Woodland,494536.746,5458528.0412
+Theft of Bicycle,2021,8,1,15,0,14XX NAPIER ST,Grandview-Woodland,494536.4977,5458023.5898
+Theft of Bicycle,2021,7,23,23,45,14XX WILLIAM ST,Grandview-Woodland,494483.0076,5457915.9739
+Theft of Bicycle,2021,1,16,0,0,14XX WILLIAM ST,Grandview-Woodland,494538.3804,5457923.7763
+Theft of Bicycle,2021,1,29,22,0,14XX WILLIAM ST,Grandview-Woodland,494538.3804,5457923.7763
+Theft of Bicycle,2021,6,21,5,0,15XX E 2ND AVE,Grandview-Woodland,494764.2257,5457326.5531
+Theft of Bicycle,2021,6,29,1,0,15XX GRAVELEY ST,Grandview-Woodland,494700.8464,5457527.3117
+Theft of Bicycle,2021,4,5,21,0,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Theft of Bicycle,2021,5,8,19,19,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Theft of Bicycle,2021,2,25,1,0,15XX VICTORIA DR,Grandview-Woodland,495222.0143,5457581.7856
+Theft of Bicycle,2021,4,21,20,33,15XX WOODLAND DR,Grandview-Woodland,494652.221,5457578.8873
+Theft of Bicycle,2021,5,26,14,0,15XX WOODLAND DR,Grandview-Woodland,494652.221,5457578.8873
+Theft of Bicycle,2021,6,29,14,22,15XX WOODLAND DR,Grandview-Woodland,494652.221,5457578.8873
+Theft of Bicycle,2021,11,8,16,0,16XX ADANAC ST,Grandview-Woodland,494789.8734,5458321.7607
+Theft of Bicycle,2021,5,13,2,0,16XX E 1ST AVE,Grandview-Woodland,494856.0732,5457431.2335
+Theft of Bicycle,2021,4,4,0,0,16XX GRANT ST,Grandview-Woodland,494850.1456,5457627.26
+Theft of Bicycle,2021,4,9,1,0,16XX GRANT ST,Grandview-Woodland,494852.8718,5457627.2257
+Theft of Bicycle,2021,9,7,13,40,16XX GRAVELEY ST,Grandview-Woodland,494886.0912,5457524.8674
+Theft of Bicycle,2021,11,26,14,0,16XX NAPIER ST,Grandview-Woodland,494923.2387,5458018.9232
+Theft of Bicycle,2021,6,10,0,0,17XX COMMERCIAL DR,Grandview-Woodland,494926.7584,5457400.8505
+Theft of Bicycle,2021,3,20,16,30,17XX COMMERCIAL DR,Grandview-Woodland,494935.8998,5457407.524
+Theft of Bicycle,2021,12,17,17,30,17XX FRANCES ST,Grandview-Woodland,494991.3885,5458518.246
+Theft of Bicycle,2021,2,19,12,0,17XX GRANT ST,Grandview-Woodland,495013.4841,5457612.0959
+Theft of Bicycle,2021,1,10,12,0,17XX NAPIER ST,Grandview-Woodland,494965.1225,5458009.3805
+Theft of Bicycle,2021,1,10,15,0,17XX NAPIER ST,Grandview-Woodland,494965.1225,5458009.3805
+Theft of Bicycle,2021,3,28,4,0,17XX PARKER ST,Grandview-Woodland,495019.4041,5458117.7031
+Theft of Bicycle,2021,11,23,11,0,17XX VENABLES ST,Grandview-Woodland,494911.0279,5458218.9712
+Theft of Bicycle,2021,6,26,7,10,18XX ADANAC ST,Grandview-Woodland,495130.1621,5458306.3737
+Theft of Bicycle,2021,6,25,0,0,18XX E 2ND AVE,Grandview-Woodland,495096.4607,5457331.3918
+Theft of Bicycle,2021,1,6,5,0,18XX E GEORGIA ST,Grandview-Woodland,495141.1042,5458406.0041
+Theft of Bicycle,2021,1,13,17,30,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Theft of Bicycle,2021,8,11,19,12,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Theft of Bicycle,2021,5,3,23,0,18XX VICTORIA DR,Grandview-Woodland,495218.7796,5457320.116
+Theft of Bicycle,2021,6,30,0,0,19XX PARKER ST,Grandview-Woodland,495282.0623,5458105.9037
+Theft of Bicycle,2021,12,19,17,15,19XX TRIUMPH ST,Grandview-Woodland,495306.8149,5459016.7772
+Theft of Bicycle,2021,7,29,0,0,19XX VICTORIA DR,Grandview-Woodland,495216.2481,5457134.5667
+Theft of Bicycle,2021,8,13,17,0,1X LAKEWOOD DR,Grandview-Woodland,495523.0435,5459098.7609
+Theft of Bicycle,2021,6,11,0,0,20XX E 7TH AVE,Grandview-Woodland,495438.601,5456825.8886
+Theft of Bicycle,2021,8,10,19,0,20XX FRANKLIN ST,Grandview-Woodland,495407.6544,5458824.8344
+Theft of Bicycle,2021,8,28,20,0,20XX GRANT ST,Grandview-Woodland,495447.7874,5457617.2956
+Theft of Bicycle,2021,1,19,10,50,21XX ADANAC ST,Grandview-Woodland,495542.7163,5458301.02
+Theft of Bicycle,2021,7,30,4,5,21XX FRANKLIN ST,Grandview-Woodland,495545.0152,5458822.7777
+Theft of Bicycle,2021,2,4,23,45,21XX TRIUMPH ST,Grandview-Woodland,495588.2686,5459024.5485
+Theft of Bicycle,2021,8,8,13,30,22XX COMMERCIAL DR,Grandview-Woodland,494929.744,5456855.3495
+Theft of Bicycle,2021,2,1,0,30,22XX E 7TH AVE,Grandview-Woodland,495698.5043,5456826.8586
+Theft of Bicycle,2021,1,31,0,22,22XX FERNDALE ST,Grandview-Woodland,495661.097,5458541.5477
+Theft of Bicycle,2021,8,25,12,0,22XX FERNDALE ST,Grandview-Woodland,495712.4776,5458550.0878
+Theft of Bicycle,2021,9,25,0,0,22XX FRANKLIN ST,Grandview-Woodland,495697.0454,5458810.9228
+Theft of Bicycle,2021,7,1,14,0,22XX WILLIAM ST,Grandview-Woodland,495708.3089,5457906.4017
+Theft of Bicycle,2021,6,3,0,0,23XX E 2ND AVE,Grandview-Woodland,495822.8549,5457321.6711
+Theft of Bicycle,2021,4,10,4,0,23XX E 3RD AVE,Grandview-Woodland,495856.1397,5457210.557
+Theft of Bicycle,2021,5,5,20,0,23XX FERNDALE ST,Grandview-Woodland,495844.1049,5458548.4823
+Theft of Bicycle,2021,7,11,22,44,24XX COMMERCIAL DR,Grandview-Woodland,494927.2521,5456683.7058
+Theft of Bicycle,2021,6,11,17,7,24XX VICTORIA DR,Grandview-Woodland,495208.7675,5456620.1177
+Theft of Bicycle,2021,7,2,18,45,24XX VICTORIA DR,Grandview-Woodland,495208.7675,5456620.1177
+Theft of Bicycle,2021,7,6,0,0,4XX MCLEAN DR,Grandview-Woodland,494613.9645,5458703.2272
+Theft of Bicycle,2021,9,18,10,0,6XX COMMERCIAL DR,Grandview-Woodland,494870.7312,5458478.2255
+Theft of Bicycle,2021,12,12,13,0,6XX COMMERCIAL DR,Grandview-Woodland,494870.7312,5458478.2255
+Theft of Bicycle,2021,9,12,22,16,7XX TEMPLETON DR,Grandview-Woodland,495654.5945,5458388.7117
+Theft of Bicycle,2021,11,19,19,0,7XX TEMPLETON DR,Grandview-Woodland,495654.5945,5458388.7117
+Theft of Bicycle,2021,11,26,0,2,8XX SALSBURY DR,Grandview-Woodland,495023.3152,5458248.5732
+Theft of Bicycle,2021,11,24,11,0,8XX VICTORIA DR,Grandview-Woodland,495231.8203,5458239.6579
+Theft of Bicycle,2021,6,25,15,0,CHARLES ST / COMMERCIAL DR,Grandview-Woodland,494938.4455,5457811.215
+Theft of Bicycle,2021,5,18,23,0,CHARLES ST / WOODLAND DR,Grandview-Woodland,494658.2083,5457812.3805
+Theft of Bicycle,2021,5,26,18,0,COMMERCIAL DR / E 2ND AVE,Grandview-Woodland,494931.3598,5457329.0302
+Theft of Bicycle,2021,11,6,18,10,E 1ST AVE / SEMLIN DR,Grandview-Woodland,495358.2332,5457424.8826
+Theft of Bicycle,2021,4,18,23,0,E 3RD AVE / LAKEWOOD DR,Grandview-Woodland,495494.3284,5457220.3379
+Theft of Bicycle,2021,2,10,13,0,E HASTINGS ST / TEMPLETON DR,Grandview-Woodland,495653.3692,5458714.9992
+Theft of Bicycle,2021,7,16,21,0,GARDEN DR / PANDORA ST,Grandview-Woodland,495796.89,5458917.7961
+Theft of Vehicle,2021,10,21,16,30,11XX CLARK DR,Grandview-Woodland,494381.9182,5457981.4731
+Theft of Vehicle,2021,8,11,21,51,12XX VICTORIA DR,Grandview-Woodland,495227.1981,5457895.6196
+Theft of Vehicle,2021,12,5,18,0,12XX WOODLAND DR,Grandview-Woodland,494665.1726,5457915.3677
+Theft of Vehicle,2021,2,28,21,0,13XX E 1ST AVE,Grandview-Woodland,494446.5098,5457438.6033
+Theft of Vehicle,2021,4,13,19,0,13XX LAKEWOOD DR,Grandview-Woodland,495505.7228,5457765.0724
+Theft of Vehicle,2021,8,31,0,0,14XX E PENDER ST,Grandview-Woodland,494499.4476,5458618.946
+Theft of Vehicle,2021,3,13,1,30,14XX GRAVELEY ST,Grandview-Woodland,494521.7217,5457529.9973
+Theft of Vehicle,2021,12,27,19,0,14XX MCLEAN DR,Grandview-Woodland,494577.4022,5457640.9766
+Theft of Vehicle,2021,9,17,7,0,14XX WILLIAM ST,Grandview-Woodland,494649.1099,5457912.6228
+Theft of Vehicle,2021,9,30,21,30,15XX E 3RD AVE,Grandview-Woodland,494656.8537,5457227.2525
+Theft of Vehicle,2021,10,28,12,0,15XX E 4TH AVE,Grandview-Woodland,494668.8439,5457123.496
+Theft of Vehicle,2021,1,9,21,40,15XX E 4TH AVE,Grandview-Woodland,494739.0716,5457122.9209
+Theft of Vehicle,2021,5,15,0,0,15XX E 4TH AVE,Grandview-Woodland,494767.954,5457131.8287
+Theft of Vehicle,2021,9,6,9,30,15XX E 5TH AVE,Grandview-Woodland,494661.1572,5457026.4001
+Theft of Vehicle,2021,11,7,15,0,15XX SALSBURY DR,Grandview-Woodland,495071.4408,5457601.2429
+Theft of Vehicle,2021,10,16,0,0,16XX ADANAC ST,Grandview-Woodland,494713.6567,5458314.4571
+Theft of Vehicle,2021,2,15,14,25,16XX COMMERCIAL DR,Grandview-Woodland,494927.9092,5457486.6796
+Theft of Vehicle,2021,2,15,14,20,16XX COMMERCIAL DR,Grandview-Woodland,494937.7832,5457523.7724
+Theft of Vehicle,2021,5,15,12,45,16XX COMMERCIAL DR,Grandview-Woodland,494937.7832,5457523.7724
+Theft of Vehicle,2021,9,20,23,0,16XX E PENDER ST,Grandview-Woodland,494723.357,5458614.9868
+Theft of Vehicle,2021,8,31,17,0,16XX FRANKLIN ST,Grandview-Woodland,494870.3094,5458832.8207
+Theft of Vehicle,2021,4,8,0,0,16XX GRANT ST,Grandview-Woodland,494885.5859,5457626.8146
+Theft of Vehicle,2021,4,13,19,0,16XX GRANT ST,Grandview-Woodland,494895.2666,5457626.693
+Theft of Vehicle,2021,12,19,21,55,16XX PANDORA ST,Grandview-Woodland,494728.5538,5458925.3364
+Theft of Vehicle,2021,10,9,18,30,17XX E 2ND AVE,Grandview-Woodland,495052.9587,5457331.9743
+Theft of Vehicle,2021,7,7,11,38,17XX E 6TH AVE,Grandview-Woodland,494940.2229,5456921.6305
+Theft of Vehicle,2021,5,26,22,0,17XX E GEORGIA ST,Grandview-Woodland,494882.0052,5458411.7778
+Theft of Vehicle,2021,1,29,3,55,17XX FRANKLIN ST,Grandview-Woodland,494967.6803,5458822.0218
+Theft of Vehicle,2021,1,28,20,0,17XX TEMPLETON DR,Grandview-Woodland,495643.6843,5457416.9278
+Theft of Vehicle,2021,9,15,17,0,19XX ADANAC ST,Grandview-Woodland,495232.2813,5458304.8078
+Theft of Vehicle,2021,1,11,23,30,19XX E 4TH AVE,Grandview-Woodland,495218.5363,5457118.4342
+Theft of Vehicle,2021,4,27,13,15,19XX E HASTINGS ST,Grandview-Woodland,495270.3198,5458723.4756
+Theft of Vehicle,2021,6,2,3,8,19XX E HASTINGS ST,Grandview-Woodland,495323.4557,5458722.542
+Theft of Vehicle,2021,8,24,5,20,19XX KITCHENER ST,Grandview-Woodland,495227.057,5457701.7229
+Theft of Vehicle,2021,10,15,22,30,1XX GARDEN DR,Grandview-Woodland,495804.172,5459013.2544
+Theft of Vehicle,2021,4,26,11,0,1XX SEMLIN DR,Grandview-Woodland,495380.9529,5458971.0405
+Theft of Vehicle,2021,9,2,12,0,1XX TEMPLETON DR,Grandview-Woodland,495652.2267,5458946.1336
+Theft of Vehicle,2021,7,22,19,0,1XX TEMPLETON DR,Grandview-Woodland,495661.8892,5459014.5733
+Theft of Vehicle,2021,5,28,23,14,20XX DUNDAS ST,Grandview-Woodland,495382.3638,5459114.5171
+Theft of Vehicle,2021,6,23,21,0,21XX GRAVELEY ST,Grandview-Woodland,495505.2227,5457516.415
+Theft of Vehicle,2021,5,22,18,0,21XX OXFORD ST,Grandview-Woodland,495523.2286,5459215.6968
+Theft of Vehicle,2021,8,28,15,55,22XX COMMISSIONER ST,Grandview-Woodland,495699.7711,5459739.5151
+Theft of Vehicle,2021,9,16,4,40,22XX E 1ST AVE,Grandview-Woodland,495751.1188,5457421.6355
+Theft of Vehicle,2021,5,29,20,20,22XX E 5TH AVE,Grandview-Woodland,495637.1067,5457013.4604
+Theft of Vehicle,2021,9,22,18,45,22XX E PENDER ST,Grandview-Woodland,495659.2675,5458606.0149
+Theft of Vehicle,2021,9,8,22,0,22XX TURNER ST,Grandview-Woodland,495660.6339,5458490.7049
+Theft of Vehicle,2021,3,30,0,0,23XX E PENDER ST,Grandview-Woodland,495797.4184,5458605.7786
+Theft of Vehicle,2021,4,3,12,0,23XX KITCHENER ST,Grandview-Woodland,495838.426,5457704.516
+Theft of Vehicle,2021,7,21,18,30,2XX LAKEWOOD DR,Grandview-Woodland,495517.6441,5458913.4552
+Theft of Vehicle,2021,3,10,21,30,3XX MCLEAN DR,Grandview-Woodland,494615.8638,5458828.0069
+Theft of Vehicle,2021,7,30,20,35,3XX N GARDEN DR,Grandview-Woodland,495808.2094,5459424.7824
+Theft of Vehicle,2021,7,11,19,35,5XX CLARK DR,Grandview-Woodland,494390.2973,5458538.7239
+Theft of Vehicle,2021,10,16,15,51,5XX CLARK DR,Grandview-Woodland,494390.2973,5458538.7239
+Theft of Vehicle,2021,2,10,21,0,8XX MCLEAN DR,Grandview-Woodland,494611.6709,5458321.0979
+Theft of Vehicle,2021,9,15,15,0,ADANAC ST / MCLEAN DR,Grandview-Woodland,494607.2222,5458322.9596
+Theft of Vehicle,2021,4,6,12,38,COMMERCIAL DR / E 2ND AVE,Grandview-Woodland,494931.3598,5457329.0302
+Theft of Vehicle,2021,7,21,20,0,E 4TH AVE / LAKEWOOD DR,Grandview-Woodland,495494.8749,5457115.1592
+Vehicle Collision or Pedestrian Struck (with Injury),2021,3,24,13,46,12XX BLOCK CLARK DR,Grandview-Woodland,494377.0,5457906.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,5,22,21,2,14XX BLOCK GRANDVIEW HWY N,Grandview-Woodland,494529.0,5456977.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,3,11,14,47,16XX BLOCK ADANAC ST,Grandview-Woodland,494736.0,5458318.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,12,23,17,13,16XX BLOCK COMMERCIAL DR,Grandview-Woodland,494933.0,5457512.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,11,24,18,24,16XX BLOCK COTTON DR,Grandview-Woodland,494794.0,5457506.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,6,3,8,11,16XX BLOCK POWELL ST,Grandview-Woodland,494749.0,5458980.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,7,21,17,2,17XX BLOCK E 1ST AVE,Grandview-Woodland,494957.0,5457427.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,8,11,19,13,17XX BLOCK FRANCES ST,Grandview-Woodland,494902.0,5458516.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,1,14,17,16,20XX BLOCK TRIUMPH ST,Grandview-Woodland,495401.0,5459021.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,12,7,18,47,23XX BLOCK E HASTINGS ST,Grandview-Woodland,495809.0,5458715.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,4,2,19,3,COMMERCIAL DR / E 1ST AVE,Grandview-Woodland,494931.0,5457427.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,6,9,17,6,COMMERCIAL DR / E 1ST AVE,Grandview-Woodland,494931.0,5457427.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,7,6,18,52,COMMERCIAL DR / E 1ST AVE,Grandview-Woodland,494931.0,5457427.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,10,27,12,56,COMMERCIAL DR / E 1ST AVE,Grandview-Woodland,494931.0,5457427.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,11,22,23,11,COMMERCIAL DR / E 1ST AVE,Grandview-Woodland,494931.0,5457427.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,7,31,15,7,COMMERCIAL DR / E 7TH AVE,Grandview-Woodland,494924.0,5456825.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,9,9,21,12,COMMERCIAL DR / E HASTINGS ST,Grandview-Woodland,494879.0,5458723.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,10,20,0,17,COMMERCIAL DR / E HASTINGS ST,Grandview-Woodland,494879.0,5458723.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,1,2,16,57,COMMERCIAL DR / POWELL ST,Grandview-Woodland,494883.0,5459014.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,5,27,14,3,COMMERCIAL DR / VENABLES ST,Grandview-Woodland,494946.0,5458213.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,4,24,13,23,E 1ST AVE / LAKEWOOD DR,Grandview-Woodland,495496.0,5457421.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,2,19,21,7,E 1ST AVE / MCLEAN DR,Grandview-Woodland,494513.0,5457433.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,5,20,17,50,E 1ST AVE / MCLEAN DR,Grandview-Woodland,494513.0,5457433.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,2,2,19,7,E 1ST AVE / NANAIMO ST,Grandview-Woodland,495882.0,5457422.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,9,6,18,55,E 3RD AVE / COMMERCIAL DR,Grandview-Woodland,494930.0,5457228.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,3,17,14,55,E 4TH AVE / COMMERCIAL DR,Grandview-Woodland,494929.0,5457125.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,1,18,18,7,E HASTINGS ST / COMMERCIAL DR,Grandview-Woodland,494879.0,5458723.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,3,26,15,30,E HASTINGS ST / NANAIMO ST,Grandview-Woodland,495887.0,5458714.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,9,25,8,51,E HASTINGS ST / NANAIMO ST,Grandview-Woodland,495887.0,5458714.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,9,7,19,20,E HASTINGS ST / SALSBURY DR,Grandview-Woodland,495033.0,5458722.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,5,19,16,4,GARDEN DR / E HASTINGS ST,Grandview-Woodland,495793.0,5458714.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,11,12,17,52,GRANT ST / VICTORIA DR,Grandview-Woodland,495217.0,5457615.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,7,24,18,35,MCLEAN DR / E HASTINGS ST,Grandview-Woodland,494609.0,5458731.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,4,26,20,49,NANAIMO ST / E 1ST AVE,Grandview-Woodland,495881.0,5457406.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,9,16,7,35,NANAIMO ST / E 1ST AVE,Grandview-Woodland,495881.0,5457406.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,11,25,21,52,NANAIMO ST / E HASTINGS ST,Grandview-Woodland,495887.0,5458714.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,3,26,19,52,STEWART ST / COMMISSIONER ST,Grandview-Woodland,495235.0,5459194.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,9,1,23,26,TEMPLETON DR / E HASTINGS ST,Grandview-Woodland,495653.0,5458715.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,5,17,17,28,TEMPLETON DR / NAPIER ST,Grandview-Woodland,495645.0,5458006.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,3,27,10,11,VENABLES ST / COMMERCIAL DR,Grandview-Woodland,494946.0,5458213.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,6,30,23,0,VICTORIA DR / E 2ND AVE,Grandview-Woodland,495214.0,5457325.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,2,7,19,13,VICTORIA DR / POWELL ST,Grandview-Woodland,495235.0,5459122.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,11,14,8,8,VICTORIA DR / POWELL ST,Grandview-Woodland,495235.0,5459122.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,12,9,17,23,VICTORIA DR / POWELL ST,Grandview-Woodland,495235.0,5459122.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,7,14,20,22,WOODLAND DR / E 8TH AVE,Grandview-Woodland,494642.0,5456727.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,3,26,15,0,WOODLAND DR / FRANKLIN ST,Grandview-Woodland,494717.0,5458831.0
+Vehicle Collision or Pedestrian Struck (with Injury),2021,4,14,20,46,WOODLAND DR / GRANT ST,Grandview-Woodland,494657.0,5457634.0
+Break and Enter Commercial,2021,6,12,4,31,10XX COMMERCIAL DR,Grandview-Woodland,494937.7242,5458109.1122
+Break and Enter Commercial,2021,7,31,3,30,10XX COMMERCIAL DR,Grandview-Woodland,494937.7242,5458109.1122
+Break and Enter Commercial,2021,4,18,3,58,10XX COMMERCIAL DR,Grandview-Woodland,494946.4726,5458070.4437
+Break and Enter Commercial,2021,1,8,21,0,11XX COMMERCIAL DR,Grandview-Woodland,494935.803,5457925.3471
+Break and Enter Commercial,2021,2,14,6,5,12XX COMMERCIAL DR,Grandview-Woodland,494943.4693,5457836.7324
+Break and Enter Commercial,2021,10,10,6,21,12XX ODLUM DR,Grandview-Woodland,494481.1527,5457828.1824
+Break and Enter Commercial,2021,7,3,6,10,13XX E 7TH AVE,Grandview-Woodland,494410.7429,5456836.623
+Break and Enter Commercial,2021,9,4,20,0,13XX E 7TH AVE,Grandview-Woodland,494453.6754,5456835.7522
+Break and Enter Commercial,2021,1,28,14,18,13XX E 8TH AVE,Grandview-Woodland,494455.1886,5456726.5744
+Break and Enter Commercial,2021,7,27,18,30,13XX E HASTINGS ST,Grandview-Woodland,494413.5441,5458739.3148
+Break and Enter Commercial,2021,7,19,20,0,13XX E HASTINGS ST,Grandview-Woodland,494417.2723,5458739.2455
+Break and Enter Commercial,2021,7,26,0,33,13XX E HASTINGS ST,Grandview-Woodland,494419.2444,5458739.2092
+Break and Enter Commercial,2021,1,10,4,18,13XX E HASTINGS ST,Grandview-Woodland,494440.1542,5458729.6789
+Break and Enter Commercial,2021,1,10,4,20,13XX E HASTINGS ST,Grandview-Woodland,494442.7424,5458729.6307
+Break and Enter Commercial,2021,1,9,13,0,13XX E PENDER ST,Grandview-Woodland,494429.0516,5458620.1801
+Break and Enter Commercial,2021,9,15,5,0,13XX GRANT ST,Grandview-Woodland,494495.101,5457634.1772
+Break and Enter Commercial,2021,1,16,21,0,13XX ODLUM DR,Grandview-Woodland,494470.8551,5457745.5055
+Break and Enter Commercial,2021,1,31,1,45,13XX ODLUM DR,Grandview-Woodland,494470.8551,5457745.5055
+Break and Enter Commercial,2021,4,6,4,42,13XX ODLUM DR,Grandview-Woodland,494470.8551,5457745.5055
+Break and Enter Commercial,2021,7,18,0,52,13XX ODLUM DR,Grandview-Woodland,494470.8551,5457745.5055
+Break and Enter Commercial,2021,9,28,23,46,13XX ODLUM DR,Grandview-Woodland,494470.8551,5457745.5055
+Break and Enter Commercial,2021,9,19,4,33,13XX POWELL ST,Grandview-Woodland,494415.5633,5458932.8392
+Break and Enter Commercial,2021,2,10,7,47,13XX POWELL ST,Grandview-Woodland,494485.038,5458929.6991
+Break and Enter Commercial,2021,3,27,5,5,13XX POWELL ST,Grandview-Woodland,494485.038,5458929.6991
+Break and Enter Commercial,2021,4,2,21,0,13XX POWELL ST,Grandview-Woodland,494485.038,5458929.6991
+Break and Enter Commercial,2021,5,27,22,0,13XX POWELL ST,Grandview-Woodland,494485.038,5458929.6991
+Break and Enter Commercial,2021,5,27,22,12,13XX POWELL ST,Grandview-Woodland,494485.038,5458929.6991
+Break and Enter Commercial,2021,1,6,4,0,13XX VENABLES ST,Grandview-Woodland,494463.6665,5458228.5157
+Break and Enter Commercial,2021,7,18,1,23,13XX VENABLES ST,Grandview-Woodland,494471.5222,5458228.3747
+Break and Enter Commercial,2021,11,26,21,27,13XX VICTORIA DR,Grandview-Woodland,495225.8264,5457804.5334
+Break and Enter Commercial,2021,9,8,0,0,14XX ADANAC ST,Grandview-Woodland,494598.3759,5458327.6682
+Break and Enter Commercial,2021,9,10,20,0,14XX ADANAC ST,Grandview-Woodland,494598.3759,5458327.6682
+Break and Enter Commercial,2021,4,6,4,30,14XX COMMERCIAL DR,Grandview-Woodland,494940.5343,5457677.484
+Break and Enter Commercial,2021,3,7,8,47,14XX COMMERCIAL DR,Grandview-Woodland,494940.8019,5457693.8198
+Break and Enter Commercial,2021,7,23,11,14,14XX E 4TH AVE,Grandview-Woodland,494620.1841,5457133.0554
+Break and Enter Commercial,2021,4,16,2,24,14XX E 7TH AVE,Grandview-Woodland,494535.6496,5456824.9358
+Break and Enter Commercial,2021,4,26,23,30,14XX E 7TH AVE,Grandview-Woodland,494535.6496,5456824.9358
+Break and Enter Commercial,2021,11,6,5,20,14XX E BROADWAY AVE,Grandview-Woodland,494606.204,5456629.4002
+Break and Enter Commercial,2021,8,2,3,52,14XX E HASTINGS ST,Grandview-Woodland,494588.8533,5458736.0844
+Break and Enter Commercial,2021,3,30,21,0,14XX POWELL ST,Grandview-Woodland,494557.0168,5458945.1363
+Break and Enter Commercial,2021,1,30,6,52,14XX WILLIAM ST,Grandview-Woodland,494538.3804,5457923.7763
+Break and Enter Commercial,2021,1,3,18,18,15XX CHARLES ST,Grandview-Woodland,494683.4072,5457816.9938
+Break and Enter Commercial,2021,6,12,2,26,15XX COMMERCIAL DR,Grandview-Woodland,494939.4329,5457612.1447
+Break and Enter Commercial,2021,11,13,10,47,15XX E 5TH AVE,Grandview-Woodland,494696.8739,5457025.9432
+Break and Enter Commercial,2021,11,18,8,45,15XX E 5TH AVE,Grandview-Woodland,494696.8739,5457025.9432
+Break and Enter Commercial,2021,11,17,20,30,15XX E 5TH AVE,Grandview-Woodland,494753.1613,5457034.3679
+Break and Enter Commercial,2021,8,5,16,27,15XX E 5TH AVE,Grandview-Woodland,494755.6684,5457034.3358
+Break and Enter Commercial,2021,9,12,3,0,15XX E 5TH AVE,Grandview-Woodland,494755.6684,5457034.3358
+Break and Enter Commercial,2021,10,11,4,5,15XX E 5TH AVE,Grandview-Woodland,494755.6684,5457034.3358
+Break and Enter Commercial,2021,10,24,6,50,15XX E 5TH AVE,Grandview-Woodland,494755.6684,5457034.3358
+Break and Enter Commercial,2021,12,21,10,11,15XX E 8TH AVE,Grandview-Woodland,494699.3635,5456731.2422
+Break and Enter Commercial,2021,11,6,7,30,15XX E BROADWAY AVE,Grandview-Woodland,494668.7821,5456628.503
+Break and Enter Commercial,2021,2,14,7,43,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Break and Enter Commercial,2021,11,14,3,30,15XX E HASTINGS ST,Grandview-Woodland,494702.2158,5458724.7723
+Break and Enter Commercial,2021,11,25,1,20,15XX E HASTINGS ST,Grandview-Woodland,494703.9379,5458724.7389
+Break and Enter Commercial,2021,3,7,6,48,15XX E HASTINGS ST,Grandview-Woodland,494714.3133,5458724.539
+Break and Enter Commercial,2021,11,12,12,25,15XX E PENDER ST,Grandview-Woodland,494701.8719,5458615.3694
+Break and Enter Commercial,2021,5,8,22,35,16XX COMMERCIAL DR,Grandview-Woodland,494927.9092,5457486.6796
+Break and Enter Commercial,2021,4,26,7,20,16XX E BROADWAY AVE,Grandview-Woodland,494847.0444,5456626.0359
+Break and Enter Commercial,2021,6,1,4,43,16XX E BROADWAY AVE,Grandview-Woodland,494847.0444,5456626.0359
+Break and Enter Commercial,2021,11,28,7,31,16XX FRANCES ST,Grandview-Woodland,494742.666,5458523.5961
+Break and Enter Commercial,2021,2,19,2,18,16XX FRANCES ST,Grandview-Woodland,494754.3993,5458514.206
+Break and Enter Commercial,2021,12,12,7,5,16XX FRANCES ST,Grandview-Woodland,494754.3993,5458514.206
+Break and Enter Commercial,2021,8,28,11,36,16XX FRANKLIN ST,Grandview-Woodland,494746.5779,5458835.0554
+Break and Enter Commercial,2021,10,12,3,46,16XX FRANKLIN ST,Grandview-Woodland,494746.5779,5458835.0554
+Break and Enter Commercial,2021,4,7,0,0,16XX GRANT ST,Grandview-Woodland,494852.8718,5457627.2257
+Break and Enter Commercial,2021,4,8,0,0,16XX GRANT ST,Grandview-Woodland,494885.5859,5457626.8146
+Break and Enter Commercial,2021,4,8,18,0,16XX GRANT ST,Grandview-Woodland,494890.4554,5457626.7534
+Break and Enter Commercial,2021,4,9,12,52,16XX GRANT ST,Grandview-Woodland,494895.2666,5457626.693
+Break and Enter Commercial,2021,4,8,0,0,16XX GRANT ST,Grandview-Woodland,494895.6329,5457626.6884
+Break and Enter Commercial,2021,10,29,15,0,17XX CHARLES ST,Grandview-Woodland,494953.464,5457815.6458
+Break and Enter Commercial,2021,11,26,17,0,17XX E HASTINGS ST,Grandview-Woodland,494938.2191,5458719.0183
+Break and Enter Commercial,2021,7,3,8,8,17XX E HASTINGS ST,Grandview-Woodland,494975.6593,5458718.7748
+Break and Enter Commercial,2021,7,3,13,9,17XX E HASTINGS ST,Grandview-Woodland,494975.6593,5458718.7748
+Break and Enter Commercial,2021,2,9,18,0,17XX FRANCES ST,Grandview-Woodland,494937.3397,5458510.306
+Break and Enter Commercial,2021,9,17,8,8,17XX FRANCES ST,Grandview-Woodland,494937.3397,5458510.306
+Break and Enter Commercial,2021,1,29,14,54,17XX FRANKLIN ST,Grandview-Woodland,494967.6803,5458822.0218
+Break and Enter Commercial,2021,8,30,4,40,17XX VICTORIA DR,Grandview-Woodland,495210.6233,5457401.2129
+Break and Enter Commercial,2021,1,10,0,0,18XX COMMERCIAL DR,Grandview-Woodland,494935.7523,5457290.5593
+Break and Enter Commercial,2021,2,5,18,0,18XX E 3RD AVE,Grandview-Woodland,495137.1357,5457220.5526
+Break and Enter Commercial,2021,11,19,23,39,18XX E HASTINGS ST,Grandview-Woodland,495077.01,5458717.6521
+Break and Enter Commercial,2021,11,15,0,37,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Break and Enter Commercial,2021,1,6,12,20,18XX FRANCES ST,Grandview-Woodland,495098.5781,5458515.9645
+Break and Enter Commercial,2021,3,22,16,21,18XX FRANCES ST,Grandview-Woodland,495098.5781,5458515.9645
+Break and Enter Commercial,2021,10,14,8,0,18XX POWELL ST,Grandview-Woodland,495044.9928,5459062.5069
+Break and Enter Commercial,2021,12,25,10,12,18XX POWELL ST,Grandview-Woodland,495171.0438,5459105.1516
+Break and Enter Commercial,2021,7,21,7,20,19XX E 2ND AVE,Grandview-Woodland,495321.8616,5457328.3706
+Break and Enter Commercial,2021,6,8,1,50,19XX E HASTINGS ST,Grandview-Woodland,495291.9657,5458723.0953
+Break and Enter Commercial,2021,6,2,3,8,19XX E HASTINGS ST,Grandview-Woodland,495323.4557,5458722.542
+Break and Enter Commercial,2021,10,14,14,44,19XX E HASTINGS ST,Grandview-Woodland,495348.7859,5458722.0969
+Break and Enter Commercial,2021,12,23,10,44,19XX PANDORA ST,Grandview-Woodland,495336.8399,5458927.6163
+Break and Enter Commercial,2021,6,30,23,44,19XX POWELL ST,Grandview-Woodland,495239.7123,5459126.8521
+Break and Enter Commercial,2021,5,24,0,0,1XX COMMERCIAL DR,Grandview-Woodland,494879.2709,5459002.4152
+Break and Enter Commercial,2021,7,12,13,32,20XX DUNDAS ST,Grandview-Woodland,495408.5185,5459123.4807
+Break and Enter Commercial,2021,6,5,3,0,20XX E HASTINGS ST,Grandview-Woodland,495482.9003,5458711.1378
+Break and Enter Commercial,2021,7,31,1,40,20XX E HASTINGS ST,Grandview-Woodland,495484.6911,5458711.1153
+Break and Enter Commercial,2021,3,20,2,13,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Break and Enter Commercial,2021,8,13,4,0,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Break and Enter Commercial,2021,9,12,4,49,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Break and Enter Commercial,2021,10,14,5,46,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Break and Enter Commercial,2021,9,7,3,10,20XX E HASTINGS ST,Grandview-Woodland,495500.9849,5458710.9087
+Break and Enter Commercial,2021,6,5,2,51,21XX E 3RD AVE,Grandview-Woodland,495610.2624,5457223.6109
+Break and Enter Commercial,2021,1,10,18,59,21XX E HASTINGS ST,Grandview-Woodland,495582.0713,5458719.7365
+Break and Enter Commercial,2021,12,5,11,0,21XX E HASTINGS ST,Grandview-Woodland,495598.1567,5458710.5552
+Break and Enter Commercial,2021,12,7,16,30,21XX PANDORA ST,Grandview-Woodland,495563.3592,5458925.4883
+Break and Enter Commercial,2021,3,29,13,19,22XX COMMERCIAL DR,Grandview-Woodland,494929.5035,5456837.6318
+Break and Enter Commercial,2021,9,22,7,0,22XX COMMERCIAL DR,Grandview-Woodland,494930.4371,5456906.3971
+Break and Enter Commercial,2021,8,8,5,53,22XX E HASTINGS ST,Grandview-Woodland,495665.5285,5458719.5337
+Break and Enter Commercial,2021,10,31,7,10,22XX E HASTINGS ST,Grandview-Woodland,495665.5285,5458719.5337
+Break and Enter Commercial,2021,1,2,0,0,22XX GRAVELEY ST,Grandview-Woodland,495651.7342,5457523.2995
+Break and Enter Commercial,2021,2,12,22,0,22XX MCGILL ST,Grandview-Woodland,495660.5355,5459526.7353
+Break and Enter Commercial,2021,4,9,21,0,22XX MCGILL ST,Grandview-Woodland,495660.5355,5459526.7353
+Break and Enter Commercial,2021,11,11,0,30,22XX PANDORA ST,Grandview-Woodland,495787.3323,5458922.4393
+Break and Enter Commercial,2021,1,2,3,22,22XX TRIUMPH ST,Grandview-Woodland,495695.8983,5459023.8867
+Break and Enter Commercial,2021,9,17,7,45,23XX ADANAC ST,Grandview-Woodland,495800.9263,5458307.6039
+Break and Enter Commercial,2021,12,10,4,12,23XX E HASTINGS ST,Grandview-Woodland,495801.6532,5458719.1139
+Break and Enter Commercial,2021,10,4,20,0,24XX VICTORIA DR,Grandview-Woodland,495208.8573,5456624.3211
+Break and Enter Commercial,2021,8,11,3,39,5XX CLARK DR,Grandview-Woodland,494390.2973,5458538.7239
+Break and Enter Commercial,2021,2,4,15,34,6XX VICTORIA DR,Grandview-Woodland,495223.809,5458464.2684
+Break and Enter Commercial,2021,10,18,6,0,9XX COMMERCIAL DR,Grandview-Woodland,494948.9184,5458157.0936
+Break and Enter Commercial,2021,1,14,5,8,9XX COMMERCIAL DR,Grandview-Woodland,494950.4396,5458189.9727
+Break and Enter Commercial,2021,1,14,15,3,9XX COMMERCIAL DR,Grandview-Woodland,494950.4396,5458189.9727
+Break and Enter Residential/Other,2021,10,30,19,0,12XX GARDEN DR,Grandview-Woodland,495790.4304,5457893.0307
+Break and Enter Residential/Other,2021,4,29,6,10,13XX E 1ST AVE,Grandview-Woodland,494436.008,5457429.5914
+Break and Enter Residential/Other,2021,12,18,17,0,14XX COMMERCIAL DR,Grandview-Woodland,494931.4451,5457680.901
+Break and Enter Residential/Other,2021,4,23,10,10,14XX E 1ST AVE,Grandview-Woodland,494565.9547,5457428.071
+Break and Enter Residential/Other,2021,5,27,18,48,14XX E 1ST AVE,Grandview-Woodland,494571.3485,5457428.0154
+Break and Enter Residential/Other,2021,5,28,6,30,14XX ODLUM DR,Grandview-Woodland,494470.2151,5457699.3331
+Break and Enter Residential/Other,2021,7,3,7,37,15XX COTTON DR,Grandview-Woodland,494790.0148,5457560.3395
+Break and Enter Residential/Other,2021,3,3,21,0,15XX E 2ND AVE,Grandview-Woodland,494712.5558,5457327.2724
+Break and Enter Residential/Other,2021,10,15,12,30,15XX E BROADWAY AVE,Grandview-Woodland,494737.9585,5456627.5455
+Break and Enter Residential/Other,2021,8,30,10,49,15XX E PENDER ST,Grandview-Woodland,494637.7744,5458616.5123
+Break and Enter Residential/Other,2021,7,11,19,30,15XX E PENDER ST,Grandview-Woodland,494657.2765,5458616.1646
+Break and Enter Residential/Other,2021,11,5,23,38,15XX E PENDER ST,Grandview-Woodland,494701.8719,5458615.3694
+Break and Enter Residential/Other,2021,11,3,0,0,15XX GRANT ST,Grandview-Woodland,494677.3335,5457629.5206
+Break and Enter Residential/Other,2021,4,18,17,20,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Break and Enter Residential/Other,2021,8,18,23,55,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Break and Enter Residential/Other,2021,10,13,19,0,16XX E 1ST AVE,Grandview-Woodland,494860.7599,5457421.8826
+Break and Enter Residential/Other,2021,3,16,10,25,16XX E 5TH AVE,Grandview-Woodland,494852.4967,5457023.9524
+Break and Enter Residential/Other,2021,5,3,15,30,16XX E GEORGIA ST,Grandview-Woodland,494785.0696,5458413.3842
+Break and Enter Residential/Other,2021,7,20,17,0,16XX E PENDER ST,Grandview-Woodland,494821.7378,5458613.2361
+Break and Enter Residential/Other,2021,6,12,1,0,16XX FRANCES ST,Grandview-Woodland,494724.5905,5458514.8263
+Break and Enter Residential/Other,2021,2,18,20,0,16XX GRANT ST,Grandview-Woodland,494833.5025,5457627.4689
+Break and Enter Residential/Other,2021,3,31,0,0,16XX SALSBURY DR,Grandview-Woodland,495079.0117,5457492.6482
+Break and Enter Residential/Other,2021,1,9,9,45,16XX WOODLAND DR,Grandview-Woodland,494650.4534,5457490.5918
+Break and Enter Residential/Other,2021,7,5,8,14,17XX E 3RD AVE,Grandview-Woodland,495039.8744,5457231.058
+Break and Enter Residential/Other,2021,8,26,20,0,17XX E 6TH AVE,Grandview-Woodland,495031.614,5456920.4391
+Break and Enter Residential/Other,2021,9,29,20,0,17XX E 8TH AVE,Grandview-Woodland,495089.0933,5456728.0682
+Break and Enter Residential/Other,2021,5,12,0,0,17XX E PENDER ST,Grandview-Woodland,494994.4609,5458610.2541
+Break and Enter Residential/Other,2021,8,25,23,0,17XX MCLEAN DR,Grandview-Woodland,494517.7364,5457428.1286
+Break and Enter Residential/Other,2021,3,3,20,0,17XX MCSPADDEN AVE,Grandview-Woodland,495017.5248,5457070.4283
+Break and Enter Residential/Other,2021,4,17,22,0,17XX PARKER ST,Grandview-Woodland,495038.631,5458117.493
+Break and Enter Residential/Other,2021,2,16,9,9,17XX VENABLES ST,Grandview-Woodland,494911.0279,5458218.9712
+Break and Enter Residential/Other,2021,3,16,4,30,17XX WILLIAM ST,Grandview-Woodland,495071.3144,5457915.49
+Break and Enter Residential/Other,2021,6,19,16,30,18XX ADANAC ST,Grandview-Woodland,495130.1621,5458306.3737
+Break and Enter Residential/Other,2021,10,30,23,0,18XX E 6TH AVE,Grandview-Woodland,495123.5751,5456919.2401
+Break and Enter Residential/Other,2021,11,15,6,0,18XX E 6TH AVE,Grandview-Woodland,495150.6225,5456918.8875
+Break and Enter Residential/Other,2021,10,4,8,30,18XX E GEORGIA ST,Grandview-Woodland,495137.7137,5458415.2534
+Break and Enter Residential/Other,2021,1,28,9,39,18XX E GEORGIA ST,Grandview-Woodland,495141.1042,5458406.0041
+Break and Enter Residential/Other,2021,3,31,16,37,18XX E PENDER ST,Grandview-Woodland,495189.5786,5458607.789
+Break and Enter Residential/Other,2021,9,7,0,20,18XX FRANCES ST,Grandview-Woodland,495156.7658,5458505.6142
+Break and Enter Residential/Other,2021,3,4,8,0,18XX MCSPADDEN AVE,Grandview-Woodland,495076.8017,5457078.0476
+Break and Enter Residential/Other,2021,5,24,21,24,18XX PARKER ST,Grandview-Woodland,495181.1077,5458115.9338
+Break and Enter Residential/Other,2021,4,14,22,0,18XX WILLIAM ST,Grandview-Woodland,495135.7484,5457904.8717
+Break and Enter Residential/Other,2021,1,13,19,30,19XX ADANAC ST,Grandview-Woodland,495314.8778,5458312.6506
+Break and Enter Residential/Other,2021,6,18,22,0,19XX E 3RD AVE,Grandview-Woodland,495293.1482,5457227.6173
+Break and Enter Residential/Other,2021,6,19,17,43,19XX E 8TH AVE,Grandview-Woodland,495226.5229,5456716.9622
+Break and Enter Residential/Other,2021,3,14,4,46,19XX E BROADWAY AVE,Grandview-Woodland,495262.7872,5456620.191
+Break and Enter Residential/Other,2021,6,26,13,15,19XX FRANKLIN ST,Grandview-Woodland,495303.1155,5458816.7573
+Break and Enter Residential/Other,2021,10,14,0,0,19XX VENABLES ST,Grandview-Woodland,495282.8,5458206.2972
+Break and Enter Residential/Other,2021,5,23,8,42,20XX ADANAC ST,Grandview-Woodland,495496.4454,5458301.4841
+Break and Enter Residential/Other,2021,11,27,20,30,20XX CHARLES ST,Grandview-Woodland,495371.755,5457810.5042
+Break and Enter Residential/Other,2021,1,29,12,0,20XX CHARLES ST,Grandview-Woodland,495375.7213,5457801.1324
+Break and Enter Residential/Other,2021,1,20,8,0,20XX E 1ST AVE,Grandview-Woodland,495468.8569,5457426.5248
+Break and Enter Residential/Other,2021,4,7,19,0,20XX E 5TH AVE,Grandview-Woodland,495413.1775,5457016.1755
+Break and Enter Residential/Other,2021,9,4,19,0,20XX E 5TH AVE,Grandview-Woodland,495453.8826,5457015.7297
+Break and Enter Residential/Other,2021,3,5,20,0,20XX E 7TH AVE,Grandview-Woodland,495367.1474,5456826.3578
+Break and Enter Residential/Other,2021,4,16,5,30,20XX E 8TH AVE,Grandview-Woodland,495464.3927,5456713.9137
+Break and Enter Residential/Other,2021,1,3,12,44,20XX FRANKLIN ST,Grandview-Woodland,495378.803,5458816.1015
+Break and Enter Residential/Other,2021,4,2,19,0,20XX KITCHENER ST,Grandview-Woodland,495392.7712,5457709.1806
+Break and Enter Residential/Other,2021,10,6,17,0,20XX NANAIMO ST,Grandview-Woodland,495878.6173,5457069.1232
+Break and Enter Residential/Other,2021,7,23,0,0,20XX PARKER ST,Grandview-Woodland,495467.6978,5458109.68
+Break and Enter Residential/Other,2021,1,30,11,30,20XX VENABLES ST,Grandview-Woodland,495399.7933,5458204.3098
+Break and Enter Residential/Other,2021,5,17,17,0,20XX VENABLES ST,Grandview-Woodland,495413.1657,5458204.2422
+Break and Enter Residential/Other,2021,4,27,22,0,20XX VENABLES ST,Grandview-Woodland,495439.9104,5458204.107
+Break and Enter Residential/Other,2021,11,1,0,0,20XX WALL ST,Grandview-Woodland,495505.9323,5459267.2854
+Break and Enter Residential/Other,2021,7,10,23,30,21XX DUNDAS ST,Grandview-Woodland,495566.7145,5459113.7877
+Break and Enter Residential/Other,2021,2,27,4,56,21XX E 5TH AVE,Grandview-Woodland,495516.6383,5457014.9986
+Break and Enter Residential/Other,2021,2,2,10,42,21XX E 6TH AVE,Grandview-Woodland,495540.5958,5456913.149
+Break and Enter Residential/Other,2021,11,20,11,55,21XX E 8TH AVE,Grandview-Woodland,495519.768,5456722.2862
+Break and Enter Residential/Other,2021,3,12,9,0,21XX E PENDER ST,Grandview-Woodland,495577.7525,5458615.4198
+Break and Enter Residential/Other,2021,7,12,6,42,21XX FRANKLIN ST,Grandview-Woodland,495598.51,5458812.7048
+Break and Enter Residential/Other,2021,5,26,16,7,21XX NAPIER ST,Grandview-Woodland,495549.5671,5458003.532
+Break and Enter Residential/Other,2021,4,23,2,30,21XX NAPIER ST,Grandview-Woodland,495619.7117,5458011.812
+Break and Enter Residential/Other,2021,4,9,20,0,21XX TRIUMPH ST,Grandview-Woodland,495624.4044,5459015.2328
+Break and Enter Residential/Other,2021,8,27,3,30,21XX TURNER ST,Grandview-Woodland,495600.4021,5458490.9692
+Break and Enter Residential/Other,2021,2,6,21,15,21XX VENABLES ST,Grandview-Woodland,495539.2339,5458203.5144
+Break and Enter Residential/Other,2021,5,5,3,6,22XX ADANAC ST,Grandview-Woodland,495734.5698,5458299.0341
+Break and Enter Residential/Other,2021,5,22,7,29,22XX CHARLES ST,Grandview-Woodland,495719.8419,5457805.1959
+Break and Enter Residential/Other,2021,6,3,23,4,22XX COMMERCIAL DR,Grandview-Woodland,494921.0489,5456888.4727
+Break and Enter Residential/Other,2021,7,24,15,0,22XX DUNDAS ST,Grandview-Woodland,495737.462,5459122.3933
+Break and Enter Residential/Other,2021,2,14,3,0,22XX E 4TH AVE,Grandview-Woodland,495760.4361,5457108.5319
+Break and Enter Residential/Other,2021,1,25,1,27,22XX E 5TH AVE,Grandview-Woodland,495675.1136,5457022.234
+Break and Enter Residential/Other,2021,3,10,21,0,22XX E 8TH AVE,Grandview-Woodland,495736.9545,5456718.8475
+Break and Enter Residential/Other,2021,4,10,8,7,22XX MCLEAN DR,Grandview-Woodland,494507.3342,5456844.4407
+Break and Enter Residential/Other,2021,8,26,8,0,22XX TRIUMPH ST,Grandview-Woodland,495716.2186,5459014.5667
+Break and Enter Residential/Other,2021,9,10,7,30,23XX ADANAC ST,Grandview-Woodland,495875.0681,5458298.4899
+Break and Enter Residential/Other,2021,4,10,4,0,23XX E 3RD AVE,Grandview-Woodland,495856.1397,5457210.557
+Break and Enter Residential/Other,2021,10,1,11,46,23XX GRANT ST,Grandview-Woodland,495839.7671,5457601.2521
+Break and Enter Residential/Other,2021,11,17,20,1,23XX GRANT ST,Grandview-Woodland,495849.3835,5457601.248
+Break and Enter Residential/Other,2021,12,11,0,0,23XX MCLEAN DR,Grandview-Woodland,494497.9076,5456815.0169
+Break and Enter Residential/Other,2021,7,3,9,32,23XX OXFORD ST,Grandview-Woodland,495830.8499,5459222.8133
+Break and Enter Residential/Other,2021,5,5,9,0,23XX WALL ST,Grandview-Woodland,495751.9126,5459686.9827
+Break and Enter Residential/Other,2021,6,16,16,54,23XX WALL ST,Grandview-Woodland,495776.0491,5459704.4999
+Break and Enter Residential/Other,2021,6,1,1,15,8XX COMMERCIAL DR,Grandview-Woodland,494869.5708,5458288.1303
+Homicide,2021,8,5,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Mischief,2021,9,1,10,0,10XX COTTON DR,Grandview-Woodland,494798.5271,5458176.1384
+Mischief,2021,7,12,6,45,10XX ODLUM DR,Grandview-Woodland,494476.2028,5458113.6585
+Mischief,2021,1,6,13,10,10XX SEMLIN DR,Grandview-Woodland,495371.7423,5458108.2125
+Mischief,2021,1,30,9,30,11XX COMMERCIAL DR,Grandview-Woodland,494936.6158,5458001.4579
+Mischief,2021,3,17,2,13,11XX COMMERCIAL DR,Grandview-Woodland,494945.6225,5457988.5714
+Mischief,2021,3,12,22,3,11XX COTTON DR,Grandview-Woodland,494822.8158,5457961.4658
+Mischief,2021,1,9,19,30,11XX MCLEAN DR,Grandview-Woodland,494578.6433,5457990.8953
+Mischief,2021,1,10,17,15,11XX MCLEAN DR,Grandview-Woodland,494578.6433,5457990.8953
+Mischief,2021,12,26,0,0,11XX ODLUM DR,Grandview-Woodland,494483.8219,5458006.2206
+Mischief,2021,11,6,1,0,11XX ROSE ST,Grandview-Woodland,495430.0213,5457947.9125
+Mischief,2021,4,1,8,10,11XX VICTORIA DR,Grandview-Woodland,495228.2038,5457965.021
+Mischief,2021,1,20,5,16,12XX CLARK DR,Grandview-Woodland,494381.7182,5457918.0251
+Mischief,2021,1,11,0,0,12XX WOODLAND DR,Grandview-Woodland,494665.1726,5457915.3677
+Mischief,2021,8,28,15,29,13XX COMMERCIAL DR,Grandview-Woodland,494942.92,5457806.1235
+Mischief,2021,8,28,15,59,13XX COMMERCIAL DR,Grandview-Woodland,494942.92,5457806.1235
+Mischief,2021,2,15,11,28,13XX E 7TH AVE,Grandview-Woodland,494408.6279,5456836.6655
+Mischief,2021,4,30,20,0,13XX E 7TH AVE,Grandview-Woodland,494448.0445,5456826.7205
+Mischief,2021,4,13,12,0,13XX E 8TH AVE,Grandview-Woodland,494405.5841,5456727.3851
+Mischief,2021,2,26,18,0,13XX E PENDER ST,Grandview-Woodland,494451.3364,5458628.9349
+Mischief,2021,10,11,16,6,13XX GRANT ST,Grandview-Woodland,494378.9927,5457636.2143
+Mischief,2021,9,7,2,31,13XX GRANT ST,Grandview-Woodland,494495.101,5457634.1772
+Mischief,2021,5,18,18,30,13XX ODLUM DR,Grandview-Woodland,494470.7422,5457737.4335
+Mischief,2021,9,25,21,30,13XX SALSBURY DR,Grandview-Woodland,495085.4265,5457804.8154
+Mischief,2021,3,19,13,26,14XX ADANAC ST,Grandview-Woodland,494495.2949,5458320.1082
+Mischief,2021,2,12,18,0,14XX CHARLES ST,Grandview-Woodland,494571.0333,5457820.0491
+Mischief,2021,11,17,21,30,14XX E 1ST AVE,Grandview-Woodland,494520.2228,5457428.5426
+Mischief,2021,7,29,7,0,14XX E 4TH AVE,Grandview-Woodland,494551.6088,5457133.6573
+Mischief,2021,4,10,22,15,14XX E HASTINGS ST,Grandview-Woodland,494501.9506,5458728.5402
+Mischief,2021,1,14,21,20,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Mischief,2021,6,2,3,2,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Mischief,2021,1,9,10,30,14XX E HASTINGS ST,Grandview-Woodland,494588.8533,5458736.0844
+Mischief,2021,11,18,11,0,14XX GRANT ST,Grandview-Woodland,494556.3597,5457632.0121
+Mischief,2021,8,16,8,6,14XX GRANT ST,Grandview-Woodland,494631.7491,5457630.1611
+Mischief,2021,4,22,20,43,14XX GRAVELEY ST,Grandview-Woodland,494521.7217,5457529.9973
+Mischief,2021,9,13,22,0,14XX LAKEWOOD DR,Grandview-Woodland,495505.3857,5457697.0618
+Mischief,2021,9,18,22,45,14XX POWELL ST,Grandview-Woodland,494551.0391,5458944.6174
+Mischief,2021,9,7,3,0,14XX SEMLIN DR,Grandview-Woodland,495356.6082,5457663.2844
+Mischief,2021,6,27,18,5,14XX VICTORIA DR,Grandview-Woodland,495215.3189,5457701.9113
+Mischief,2021,2,25,13,37,15XX ADANAC ST,Grandview-Woodland,494640.1203,5458317.1498
+Mischief,2021,6,10,4,26,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Mischief,2021,8,31,17,5,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Mischief,2021,6,21,4,18,15XX COMMERCIAL DR,Grandview-Woodland,494939.2888,5457604.3799
+Mischief,2021,2,21,17,50,15XX COMMERCIAL DR,Grandview-Woodland,494939.5988,5457621.0585
+Mischief,2021,12,6,22,53,15XX COMMERCIAL DR,Grandview-Woodland,494939.5988,5457621.0585
+Mischief,2021,5,9,13,50,15XX E 1ST AVE,Grandview-Woodland,494660.7106,5457427.0447
+Mischief,2021,9,20,0,0,15XX E 1ST AVE,Grandview-Woodland,494722.0759,5457425.9824
+Mischief,2021,9,7,0,51,15XX E 2ND AVE,Grandview-Woodland,494655.4898,5457328.0673
+Mischief,2021,6,17,18,43,15XX E 3RD AVE,Grandview-Woodland,494702.8694,5457226.6092
+Mischief,2021,7,15,18,0,15XX E 4TH AVE,Grandview-Woodland,494735.7596,5457122.948
+Mischief,2021,4,13,0,0,15XX E 4TH AVE,Grandview-Woodland,494739.0716,5457122.9209
+Mischief,2021,10,27,20,56,15XX E 5TH AVE,Grandview-Woodland,494755.6684,5457034.3358
+Mischief,2021,5,24,10,0,15XX E 8TH AVE,Grandview-Woodland,494720.3576,5456730.8577
+Mischief,2021,10,22,18,30,15XX E 8TH AVE,Grandview-Woodland,494744.6249,5456721.2679
+Mischief,2021,1,4,14,0,15XX E HASTINGS ST,Grandview-Woodland,494618.8597,5458726.3782
+Mischief,2021,4,27,12,44,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Mischief,2021,9,22,19,40,15XX E HASTINGS ST,Grandview-Woodland,494714.3133,5458724.539
+Mischief,2021,10,29,19,0,15XX E HASTINGS ST,Grandview-Woodland,494714.3133,5458724.539
+Mischief,2021,3,26,21,27,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Mischief,2021,6,1,20,4,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Mischief,2021,7,22,23,36,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Mischief,2021,10,20,16,30,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Mischief,2021,11,10,12,0,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Mischief,2021,2,21,6,0,16XX ADANAC ST,Grandview-Woodland,494801.8464,5458312.3244
+Mischief,2021,8,13,12,0,16XX CHARLES ST,Grandview-Woodland,494877.8917,5457816.3955
+Mischief,2021,9,27,17,0,16XX CLARK DR,Grandview-Woodland,494377.3764,5457529.1005
+Mischief,2021,4,3,2,20,16XX COMMERCIAL DR,Grandview-Woodland,494928.0189,5457492.2704
+Mischief,2021,11,7,15,30,16XX COMMERCIAL DR,Grandview-Woodland,494937.7832,5457523.7724
+Mischief,2021,11,18,18,29,16XX E 1ST AVE,Grandview-Woodland,494818.0187,5457432.8464
+Mischief,2021,8,10,23,30,16XX E 1ST AVE,Grandview-Woodland,494827.7794,5457423.2805
+Mischief,2021,3,27,4,0,16XX E 1ST AVE,Grandview-Woodland,494855.7915,5457431.2453
+Mischief,2021,3,25,11,39,16XX E 1ST AVE,Grandview-Woodland,494860.7599,5457421.8826
+Mischief,2021,12,8,15,39,16XX E 1ST AVE,Grandview-Woodland,494860.7599,5457421.8826
+Mischief,2021,1,6,17,45,16XX E 4TH AVE,Grandview-Woodland,494833.5907,5457131.2908
+Mischief,2021,11,21,12,0,16XX E 4TH AVE,Grandview-Woodland,494913.9272,5457121.4888
+Mischief,2021,4,20,12,55,16XX E 5TH AVE,Grandview-Woodland,494872.9063,5457023.6913
+Mischief,2021,2,14,22,0,16XX E 6TH AVE,Grandview-Woodland,494868.8584,5456932.0581
+Mischief,2021,4,10,22,0,16XX E HASTINGS ST,Grandview-Woodland,494725.6141,5458724.2242
+Mischief,2021,8,12,8,55,16XX E HASTINGS ST,Grandview-Woodland,494725.6141,5458724.2242
+Mischief,2021,11,22,11,49,16XX E HASTINGS ST,Grandview-Woodland,494750.3775,5458723.4489
+Mischief,2021,7,20,20,0,16XX E PENDER ST,Grandview-Woodland,494723.357,5458614.9868
+Mischief,2021,2,25,20,31,16XX FRANCES ST,Grandview-Woodland,494721.6096,5458514.8884
+Mischief,2021,5,14,9,0,16XX GRANT ST,Grandview-Woodland,494828.3362,5457627.5341
+Mischief,2021,8,18,21,45,16XX GRAVELEY ST,Grandview-Woodland,494851.0041,5457525.2424
+Mischief,2021,11,7,13,0,16XX GRAVELEY ST,Grandview-Woodland,494851.0041,5457525.2424
+Mischief,2021,2,7,20,0,16XX GRAVELEY ST,Grandview-Woodland,494852.2269,5457525.2295
+Mischief,2021,10,20,1,47,16XX GRAVELEY ST,Grandview-Woodland,494913.6338,5457533.7178
+Mischief,2021,9,6,20,24,16XX KITCHENER ST,Grandview-Woodland,494850.0139,5457707.2737
+Mischief,2021,11,5,7,0,16XX NANAIMO ST,Grandview-Woodland,495877.739,5457437.6203
+Mischief,2021,8,9,8,24,16XX NAPIER ST,Grandview-Woodland,494923.2387,5458018.9232
+Mischief,2021,1,11,6,28,16XX TEMPLETON DR,Grandview-Woodland,495634.5919,5457433.8494
+Mischief,2021,9,10,4,36,16XX VENABLES ST,Grandview-Woodland,494831.6457,5458220.7191
+Mischief,2021,6,9,13,56,17XX ADANAC ST,Grandview-Woodland,494919.7536,5458319.5125
+Mischief,2021,11,16,2,13,17XX COMMERCIAL DR,Grandview-Woodland,494926.7543,5457411.2973
+Mischief,2021,2,4,22,57,17XX COMMERCIAL DR,Grandview-Woodland,494926.7619,5457392.4126
+Mischief,2021,5,19,11,3,17XX COMMERCIAL DR,Grandview-Woodland,494926.7658,5457382.7694
+Mischief,2021,5,3,19,47,17XX COMMERCIAL DR,Grandview-Woodland,494935.8936,5457422.5516
+Mischief,2021,11,14,23,0,17XX COTTON DR,Grandview-Woodland,494788.3241,5457407.1114
+Mischief,2021,10,21,1,37,17XX E BROADWAY AVE,Grandview-Woodland,494951.0401,5456624.5247
+Mischief,2021,1,12,13,0,17XX E GEORGIA ST,Grandview-Woodland,494952.8718,5458410.6101
+Mischief,2021,1,25,12,44,17XX E GEORGIA ST,Grandview-Woodland,494991.4235,5458409.975
+Mischief,2021,7,4,16,52,17XX E PENDER ST,Grandview-Woodland,494885.2581,5458612.1117
+Mischief,2021,1,20,23,19,17XX E PENDER ST,Grandview-Woodland,494919.3626,5458620.6769
+Mischief,2021,4,24,23,52,17XX E PENDER ST,Grandview-Woodland,494919.3626,5458620.6769
+Mischief,2021,3,1,19,0,17XX E PENDER ST,Grandview-Woodland,494938.319,5458611.209
+Mischief,2021,1,18,7,25,17XX FRANKLIN ST,Grandview-Woodland,494917.2733,5458832.0158
+Mischief,2021,11,1,1,1,17XX FRANKLIN ST,Grandview-Woodland,494967.6803,5458822.0218
+Mischief,2021,11,20,18,35,17XX GRANT ST,Grandview-Woodland,494966.6549,5457612.2773
+Mischief,2021,7,1,17,0,17XX GRAVELEY ST,Grandview-Woodland,494940.5043,5457524.379
+Mischief,2021,6,11,17,0,17XX MCLEAN DR,Grandview-Woodland,494517.7364,5457428.1286
+Mischief,2021,8,21,22,0,17XX MCSPADDEN AVE,Grandview-Woodland,494960.8256,5457081.0368
+Mischief,2021,8,31,0,0,17XX MCSPADDEN AVE,Grandview-Woodland,494988.0553,5457080.3349
+Mischief,2021,1,10,19,0,17XX NAPIER ST,Grandview-Woodland,494990.4,5458018.2872
+Mischief,2021,10,4,1,13,17XX PANDORA ST,Grandview-Woodland,495022.0734,5458930.6353
+Mischief,2021,3,10,11,0,17XX VENABLES ST,Grandview-Woodland,494911.0279,5458218.9712
+Mischief,2021,7,14,16,48,17XX WILLIAM ST,Grandview-Woodland,495026.9619,5457916.1199
+Mischief,2021,3,8,0,0,17XX WILLIAM ST,Grandview-Woodland,495028.3551,5457916.0999
+Mischief,2021,10,1,0,30,17XX WOODLAND DR,Grandview-Woodland,494649.2149,5457430.3601
+Mischief,2021,3,8,21,0,18XX ADANAC ST,Grandview-Woodland,495138.0413,5458315.398
+Mischief,2021,5,4,12,17,18XX COMMERCIAL DR,Grandview-Woodland,494926.7556,5457322.1451
+Mischief,2021,10,2,3,35,18XX COMMERCIAL DR,Grandview-Woodland,494926.7556,5457322.1451
+Mischief,2021,3,2,4,17,18XX COMMERCIAL DR,Grandview-Woodland,494935.7636,5457293.0333
+Mischief,2021,12,25,10,0,18XX COMMERCIAL DR,Grandview-Woodland,494935.7817,5457296.9091
+Mischief,2021,2,26,20,50,18XX COMMERCIAL DR,Grandview-Woodland,494935.8901,5457320.1643
+Mischief,2021,4,5,23,0,18XX E 4TH AVE,Grandview-Woodland,495026.6611,5457144.1435
+Mischief,2021,11,14,14,46,18XX E HASTINGS ST,Grandview-Woodland,495077.01,5458717.6521
+Mischief,2021,7,12,16,0,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Mischief,2021,7,21,18,43,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Mischief,2021,8,15,13,57,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Mischief,2021,7,2,1,0,18XX E HASTINGS ST,Grandview-Woodland,495213.7755,5458724.4604
+Mischief,2021,1,27,12,45,18XX E HASTINGS ST,Grandview-Woodland,495221.0383,5458715.1913
+Mischief,2021,2,26,21,30,18XX E PENDER ST,Grandview-Woodland,495041.5152,5458609.507
+Mischief,2021,12,31,22,27,18XX E PENDER ST,Grandview-Woodland,495071.7589,5458609.1564
+Mischief,2021,12,15,7,59,18XX E PENDER ST,Grandview-Woodland,495079.4663,5458618.2116
+Mischief,2021,4,10,13,13,18XX FRANCES ST,Grandview-Woodland,495040.0119,5458508.0307
+Mischief,2021,1,8,16,0,18XX FRANCES ST,Grandview-Woodland,495156.7658,5458505.6142
+Mischief,2021,8,25,18,57,18XX FRANCES ST,Grandview-Woodland,495164.2522,5458514.6052
+Mischief,2021,4,20,20,33,18XX POWELL ST,Grandview-Woodland,495217.1019,5459120.7332
+Mischief,2021,1,4,1,37,18XX TRIUMPH ST,Grandview-Woodland,495046.8182,5458966.8776
+Mischief,2021,3,18,4,9,18XX VICTORIA DR,Grandview-Woodland,495218.7796,5457320.116
+Mischief,2021,11,29,15,0,19XX CHARLES ST,Grandview-Woodland,495233.5305,5457812.5077
+Mischief,2021,11,22,12,0,19XX COMMERCIAL DR,Grandview-Woodland,494925.6571,5457181.1569
+Mischief,2021,1,27,21,30,19XX E 4TH AVE,Grandview-Woodland,495226.5401,5457118.3496
+Mischief,2021,9,10,16,30,19XX E 6TH AVE,Grandview-Woodland,495215.9847,5456917.9944
+Mischief,2021,5,15,6,30,19XX E BROADWAY AVE,Grandview-Woodland,495289.9597,5456619.7499
+Mischief,2021,10,15,5,30,19XX E GEORGIA ST,Grandview-Woodland,495230.0873,5458399.0196
+Mischief,2021,2,19,21,30,19XX E HASTINGS ST,Grandview-Woodland,495302.5705,5458713.7634
+Mischief,2021,4,26,0,0,19XX E HASTINGS ST,Grandview-Woodland,495302.6279,5458713.7625
+Mischief,2021,7,1,0,0,19XX E HASTINGS ST,Grandview-Woodland,495340.6687,5458722.2395
+Mischief,2021,8,14,5,2,19XX E HASTINGS ST,Grandview-Woodland,495340.6687,5458722.2395
+Mischief,2021,7,5,9,15,19XX FRANKLIN ST,Grandview-Woodland,495300.4317,5458816.779
+Mischief,2021,2,5,22,0,19XX GARDEN DR,Grandview-Woodland,495771.4355,5457152.0046
+Mischief,2021,6,7,23,30,19XX GARDEN DR,Grandview-Woodland,495781.2738,5457194.7459
+Mischief,2021,5,13,13,30,19XX GRAVELEY ST,Grandview-Woodland,495345.0686,5457528.0771
+Mischief,2021,11,25,20,0,19XX GRAVELEY ST,Grandview-Woodland,495345.0686,5457528.0771
+Mischief,2021,10,23,11,15,19XX POWELL ST,Grandview-Woodland,495247.1226,5459117.7597
+Mischief,2021,10,24,5,0,19XX POWELL ST,Grandview-Woodland,495247.1226,5459117.7597
+Mischief,2021,8,6,2,40,19XX POWELL ST,Grandview-Woodland,495284.4892,5459118.0229
+Mischief,2021,10,5,20,34,19XX POWELL ST,Grandview-Woodland,495284.4892,5459118.0229
+Mischief,2021,11,30,10,0,19XX POWELL ST,Grandview-Woodland,495306.7811,5459127.324
+Mischief,2021,1,28,2,47,19XX TEMPLETON DR,Grandview-Woodland,495630.8042,5457213.4334
+Mischief,2021,6,7,18,0,19XX TRIUMPH ST,Grandview-Woodland,495354.4033,5459025.6931
+Mischief,2021,10,4,16,0,19XX VENABLES ST,Grandview-Woodland,495261.005,5458206.7609
+Mischief,2021,10,14,0,0,19XX VENABLES ST,Grandview-Woodland,495282.8,5458206.2972
+Mischief,2021,1,6,19,29,19XX WOODLAND DR,Grandview-Woodland,494654.3177,5457222.2051
+Mischief,2021,5,15,14,44,1XX COMMERCIAL DR,Grandview-Woodland,494879.2709,5459002.4152
+Mischief,2021,4,19,17,0,1XX VICTORIA DR,Grandview-Woodland,495238.1692,5459020.104
+Mischief,2021,3,17,15,30,200O VICTORIA DR,Grandview-Woodland,495237.1991,5458921.3784
+Mischief,2021,8,13,11,30,20XX COMMERCIAL DR,Grandview-Woodland,494923.7845,5457071.9661
+Mischief,2021,9,6,15,51,20XX DUNDAS ST,Grandview-Woodland,495406.7367,5459123.493
+Mischief,2021,9,28,0,42,20XX DUNDAS ST,Grandview-Woodland,495409.3747,5459114.3306
+Mischief,2021,3,25,22,7,20XX E 4TH AVE,Grandview-Woodland,495356.8586,5457116.9717
+Mischief,2021,7,20,21,30,20XX E 8TH AVE,Grandview-Woodland,495398.8295,5456723.7936
+Mischief,2021,9,8,5,50,20XX E HASTINGS ST,Grandview-Woodland,495378.897,5458712.4574
+Mischief,2021,9,17,20,57,20XX E HASTINGS ST,Grandview-Woodland,495446.7882,5458720.7408
+Mischief,2021,6,12,4,20,20XX E HASTINGS ST,Grandview-Woodland,495482.9003,5458711.1378
+Mischief,2021,8,25,8,7,20XX E HASTINGS ST,Grandview-Woodland,495484.6911,5458711.1153
+Mischief,2021,3,10,2,7,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Mischief,2021,4,5,16,50,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Mischief,2021,5,26,9,51,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Mischief,2021,8,8,0,37,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Mischief,2021,8,11,0,30,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Mischief,2021,9,11,2,28,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Mischief,2021,10,4,21,59,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Mischief,2021,4,5,14,11,20XX TRIUMPH ST,Grandview-Woodland,495384.3479,5459016.404
+Mischief,2021,3,27,11,0,20XX TRIUMPH ST,Grandview-Woodland,495466.1003,5459025.1405
+Mischief,2021,10,31,10,0,20XX WALL ST,Grandview-Woodland,495381.6025,5459133.4496
+Mischief,2021,11,1,10,14,20XX WALL ST,Grandview-Woodland,495381.6025,5459133.4496
+Mischief,2021,12,13,21,0,21XX ADANAC ST,Grandview-Woodland,495513.0921,5458301.3254
+Mischief,2021,12,16,11,30,21XX ADANAC ST,Grandview-Woodland,495513.0921,5458301.3254
+Mischief,2021,12,16,18,30,21XX ADANAC ST,Grandview-Woodland,495513.0921,5458301.3254
+Mischief,2021,12,16,23,0,21XX ADANAC ST,Grandview-Woodland,495513.0921,5458301.3254
+Mischief,2021,12,16,21,0,21XX ADANAC ST,Grandview-Woodland,495580.4197,5458300.6313
+Mischief,2021,5,17,1,19,21XX E 8TH AVE,Grandview-Woodland,495501.1395,5456713.4365
+Mischief,2021,3,9,8,20,21XX E 8TH AVE,Grandview-Woodland,495519.6232,5456713.1433
+Mischief,2021,12,30,20,30,21XX E 8TH AVE,Grandview-Woodland,495624.1945,5456711.4876
+Mischief,2021,11,26,1,1,21XX E HASTINGS ST,Grandview-Woodland,495522.9928,5458710.7291
+Mischief,2021,8,7,2,5,21XX E HASTINGS ST,Grandview-Woodland,495555.2059,5458710.6546
+Mischief,2021,1,21,9,15,21XX E HASTINGS ST,Grandview-Woodland,495568.6492,5458719.7675
+Mischief,2021,1,10,18,59,21XX E HASTINGS ST,Grandview-Woodland,495582.0713,5458719.7365
+Mischief,2021,12,5,11,0,21XX E HASTINGS ST,Grandview-Woodland,495598.1567,5458710.5552
+Mischief,2021,6,17,15,0,21XX E HASTINGS ST,Grandview-Woodland,495605.2391,5458710.5384
+Mischief,2021,5,13,0,0,21XX E PENDER ST,Grandview-Woodland,495616.7506,5458615.2898
+Mischief,2021,7,22,3,30,21XX ETON ST,Grandview-Woodland,495585.8115,5459418.3233
+Mischief,2021,2,25,19,16,21XX OXFORD ST,Grandview-Woodland,495554.0073,5459215.5464
+Mischief,2021,7,2,9,41,21XX OXFORD ST,Grandview-Woodland,495632.9791,5459224.3042
+Mischief,2021,4,23,6,45,21XX PARKER ST,Grandview-Woodland,495583.2308,5458106.5582
+Mischief,2021,4,22,23,0,21XX VENABLES ST,Grandview-Woodland,495617.8059,5458202.8879
+Mischief,2021,3,18,4,0,21XX VICTORIA DR,Grandview-Woodland,495204.9906,5456962.9068
+Mischief,2021,11,26,21,0,21XX VICTORIA DR,Grandview-Woodland,495213.6557,5456924.2407
+Mischief,2021,1,13,14,13,21XX WALL ST,Grandview-Woodland,495526.9405,5459307.5897
+Mischief,2021,8,10,23,52,21XX WALL ST,Grandview-Woodland,495539.8402,5459352.1206
+Mischief,2021,12,17,22,0,22XX ADANAC ST,Grandview-Woodland,495672.4099,5458299.6808
+Mischief,2021,6,10,19,0,22XX COMMERCIAL DR,Grandview-Woodland,494921.3915,5456913.7073
+Mischief,2021,10,14,13,30,22XX COMMERCIAL DR,Grandview-Woodland,494930.0082,5456874.8022
+Mischief,2021,11,15,11,56,22XX COMMERCIAL DR,Grandview-Woodland,494930.0082,5456874.8022
+Mischief,2021,2,22,12,0,22XX DUNDAS ST,Grandview-Woodland,495737.462,5459122.3933
+Mischief,2021,8,12,22,25,22XX E HASTINGS ST,Grandview-Woodland,495730.1124,5458719.3348
+Mischief,2021,3,17,19,29,22XX E HASTINGS ST,Grandview-Woodland,495781.2366,5458710.0333
+Mischief,2021,10,10,15,0,22XX E HASTINGS ST,Grandview-Woodland,495786.4951,5458710.0168
+Mischief,2021,2,2,8,23,22XX E PENDER ST,Grandview-Woodland,495704.9693,5458615.0766
+Mischief,2021,6,23,18,0,22XX ETON ST,Grandview-Woodland,495668.8766,5459416.1886
+Mischief,2021,7,5,19,0,22XX ETON ST,Grandview-Woodland,495668.8766,5459416.1886
+Mischief,2021,7,5,20,0,22XX ETON ST,Grandview-Woodland,495703.4557,5459425.7198
+Mischief,2021,7,20,18,0,22XX ETON ST,Grandview-Woodland,495703.4557,5459425.7198
+Mischief,2021,9,4,17,0,22XX ETON ST,Grandview-Woodland,495703.4557,5459425.7198
+Mischief,2021,12,14,20,0,22XX ETON ST,Grandview-Woodland,495726.2869,5459424.8835
+Mischief,2021,6,4,13,30,22XX FRANKLIN ST,Grandview-Woodland,495697.0454,5458810.9228
+Mischief,2021,8,17,18,0,22XX FRANKLIN ST,Grandview-Woodland,495733.3616,5458810.2313
+Mischief,2021,4,6,10,21,22XX GRAVELEY ST,Grandview-Woodland,495643.5036,5457514.2784
+Mischief,2021,7,20,22,0,22XX MCGILL ST,Grandview-Woodland,495643.5984,5459517.871
+Mischief,2021,6,24,19,18,22XX TRIUMPH ST,Grandview-Woodland,495701.0497,5459014.6977
+Mischief,2021,4,1,18,0,22XX TRIUMPH ST,Grandview-Woodland,495746.3447,5459023.4501
+Mischief,2021,8,19,15,30,22XX TRIUMPH ST,Grandview-Woodland,495746.3447,5459023.4501
+Mischief,2021,10,6,15,0,22XX WALL ST,Grandview-Woodland,495684.7773,5459606.486
+Mischief,2021,9,19,20,0,23XX CAMBRIDGE ST,Grandview-Woodland,495828.7306,5459313.7307
+Mischief,2021,11,5,17,30,23XX COMMERCIAL DR,Grandview-Woodland,494928.928,5456799.8833
+Mischief,2021,9,28,3,30,23XX E 4TH AVE,Grandview-Woodland,495778.6435,5457108.7141
+Mischief,2021,9,17,19,0,23XX E HASTINGS ST,Grandview-Woodland,495803.3054,5458719.109
+Mischief,2021,1,5,8,50,23XX E HASTINGS ST,Grandview-Woodland,495853.454,5458718.9526
+Mischief,2021,1,13,8,54,23XX E HASTINGS ST,Grandview-Woodland,495853.454,5458718.9526
+Mischief,2021,12,31,2,40,23XX E HASTINGS ST,Grandview-Woodland,495867.2881,5458718.9095
+Mischief,2021,11,20,20,40,23XX E HASTINGS ST,Grandview-Woodland,495868.4794,5458718.9057
+Mischief,2021,8,4,0,0,23XX WALL ST,Grandview-Woodland,495762.4191,5459683.3095
+Mischief,2021,1,9,0,1,24XX COMMERCIAL DR,Grandview-Woodland,494917.3833,5456624.688
+Mischief,2021,5,22,23,34,24XX COMMERCIAL DR,Grandview-Woodland,494926.8732,5456652.8051
+Mischief,2021,11,30,18,2,24XX COMMERCIAL DR,Grandview-Woodland,494927.2521,5456683.7058
+Mischief,2021,11,25,22,33,24XX NANAIMO ST,Grandview-Woodland,495878.0346,5456602.6054
+Mischief,2021,7,6,0,47,24XX SEMLIN DR,Grandview-Woodland,495350.2934,5456718.2646
+Mischief,2021,4,3,18,34,24XX VICTORIA DR,Grandview-Woodland,495199.7434,5456625.7987
+Mischief,2021,8,3,0,0,24XX WOODLAND DR,Grandview-Woodland,494647.4126,5456726.1323
+Mischief,2021,8,17,16,30,2XX LAKEWOOD DR,Grandview-Woodland,495510.2107,5458888.4935
+Mischief,2021,9,9,20,30,2XX LAKEWOOD DR,Grandview-Woodland,495517.6441,5458913.4552
+Mischief,2021,5,3,15,0,2XX VICTORIA DR,Grandview-Woodland,495237.0456,5458901.4484
+Mischief,2021,10,1,15,53,3X COMMERCIAL DR,Grandview-Woodland,494880.6747,5459047.7129
+Mischief,2021,11,24,11,17,3XX COMMERCIAL DR,Grandview-Woodland,494885.7177,5458807.4794
+Mischief,2021,2,13,10,45,3XX SEMLIN DR,Grandview-Woodland,495367.2179,5458794.6439
+Mischief,2021,1,12,12,47,3XX WOODLAND DR,Grandview-Woodland,494712.752,5458795.9282
+Mischief,2021,10,5,23,0,4XX LAKEWOOD DR,Grandview-Woodland,495517.3559,5458682.971
+Mischief,2021,6,11,18,0,4XX SEMLIN DR,Grandview-Woodland,495365.9301,5458630.3847
+Mischief,2021,7,10,0,0,5X LAKEWOOD DR,Grandview-Woodland,495513.1416,5459069.6563
+Mischief,2021,2,26,0,0,5XX NANAIMO ST,Grandview-Woodland,495882.5453,5458603.197
+Mischief,2021,12,24,1,27,5XX NANAIMO ST,Grandview-Woodland,495882.5453,5458603.197
+Mischief,2021,12,20,18,30,5XX VICTORIA DR,Grandview-Woodland,495233.4693,5458519.8184
+Mischief,2021,10,18,8,0,5XX WOODLAND DR,Grandview-Woodland,494710.3128,5458594.4488
+Mischief,2021,9,28,7,51,6XX LAKEWOOD DR,Grandview-Woodland,495504.5031,5458440.8258
+Mischief,2021,1,10,19,0,6XX LAKEWOOD DR,Grandview-Woodland,495513.4705,5458482.3004
+Mischief,2021,4,27,8,47,7XX COMMERCIAL DR,Grandview-Woodland,494878.8548,5458383.5428
+Mischief,2021,2,16,5,29,7XX TEMPLETON DR,Grandview-Woodland,495654.5945,5458388.7117
+Mischief,2021,5,21,22,59,8XX CLARK DR,Grandview-Woodland,494385.9542,5458321.316
+Mischief,2021,6,4,22,0,8XX COMMERCIAL DR,Grandview-Woodland,494879.3194,5458226.8218
+Mischief,2021,1,21,16,3,8XX MCLEAN DR,Grandview-Woodland,494611.4062,5458317.4597
+Mischief,2021,1,3,9,0,8XX SALSBURY DR,Grandview-Woodland,495032.3614,5458244.9935
+Mischief,2021,1,28,19,17,8XX SEMLIN DR,Grandview-Woodland,495373.2308,5458220.1337
+Mischief,2021,2,13,22,28,8XX SEMLIN DR,Grandview-Woodland,495373.2308,5458220.1337
+Mischief,2021,6,7,22,0,9XX COMMERCIAL DR,Grandview-Woodland,494942.0656,5458206.8346
+Mischief,2021,1,1,17,0,ADANAC ST / GARDEN DR,Grandview-Woodland,495790.1932,5458303.0276
+Mischief,2021,5,29,11,35,ADANAC ST / MCLEAN DR,Grandview-Woodland,494607.2223,5458322.9593
+Mischief,2021,6,14,18,53,CLARK DR / FRANCES ST,Grandview-Woodland,494385.4206,5458526.6349
+Mischief,2021,2,5,13,43,CLARK DR / VENABLES ST,Grandview-Woodland,494379.9924,5458225.4456
+Mischief,2021,8,26,19,3,COMMERCIAL DR / E 2ND AVE,Grandview-Woodland,494931.3594,5457329.03
+Mischief,2021,10,16,0,0,COMMERCIAL DR / E 7TH AVE,Grandview-Woodland,494924.7623,5456825.2005
+Mischief,2021,6,15,8,0,COMMERCIAL DR / GRANT ST,Grandview-Woodland,494935.1179,5457625.9967
+Mischief,2021,5,15,22,10,COMMERCIAL DR / GRAVELEY ST,Grandview-Woodland,494933.3117,5457528.9353
+Mischief,2021,10,23,19,4,COMMERCIAL DR / PARKER ST,Grandview-Woodland,494942.3465,5458113.9735
+Mischief,2021,1,12,0,0,E 6TH AVE / GARDEN DR,Grandview-Woodland,495772.522,5456915.6097
+Mischief,2021,3,18,4,2,E 6TH AVE / VICTORIA DR,Grandview-Woodland,495209.0645,5456922.6977
+Mischief,2021,3,16,17,1,E 7TH AVE / WOODLAND DR,Grandview-Woodland,494644.272,5456827.2785
+Mischief,2021,2,14,3,0,E BROADWAY AVE / NANAIMO ST,Grandview-Woodland,495882.5349,5456597.9017
+Mischief,2021,9,13,13,0,E BROADWAY AVE / WOODLAND DR,Grandview-Woodland,494641.688,5456624.306
+Mischief,2021,1,1,20,30,E GEORGIA ST / GARDEN DR,Grandview-Woodland,495791.064,5458394.609
+Mischief,2021,10,14,20,30,E GEORGIA ST / VICTORIA DR,Grandview-Woodland,495227.7243,5458404.7967
+Mischief,2021,7,6,20,26,E HASTINGS ST / MCLEAN DR,Grandview-Woodland,494609.4772,5458731.1317
+Mischief,2021,3,24,13,54,E HASTINGS ST / TEMPLETON DR,Grandview-Woodland,495653.3692,5458714.9992
+Mischief,2021,9,7,2,28,E HASTINGS ST / VICTORIA DR,Grandview-Woodland,495230.8339,5458719.5962
+Mischief,2021,10,13,17,54,E HASTINGS ST / WOODLAND DR,Grandview-Woodland,494717.6462,5458729.0479
+Mischief,2021,11,5,10,38,FRANCES ST / WOODLAND DR,Grandview-Woodland,494713.5898,5458519.6279
+Mischief,2021,7,20,22,0,GRANT ST / VICTORIA DR,Grandview-Woodland,495217.859,5457615.6048
+Mischief,2021,9,8,20,30,LAKEWOOD DR / PANDORA ST,Grandview-Woodland,495515.1672,5458919.3309
+Mischief,2021,10,14,18,0,LAKEWOOD DR / VENABLES ST,Grandview-Woodland,495508.3032,5458208.3332
+Mischief,2021,11,4,7,55,NANAIMO ST / TRIUMPH ST,Grandview-Woodland,495888.7029,5459018.3473
+Mischief,2021,9,11,0,53,POWELL ST / SEMLIN DR,Grandview-Woodland,495378.1713,5459119.1181
+Offence Against a Person,2021,10,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,25,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,9,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,22,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,15,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,25,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,3,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,31,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,8,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,1,12,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,30,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,24,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,7,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,6,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,28,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,15,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,7,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,13,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,30,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,30,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,21,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,31,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,13,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,27,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,29,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,14,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,27,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,4,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,16,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,27,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,13,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,13,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,13,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,1,12,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,2,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,6,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,2,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,31,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,8,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,24,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,9,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,16,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,26,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,15,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,15,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,13,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,9,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,22,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,17,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,24,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,23,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,29,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,2,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,6,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,25,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,28,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,8,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,8,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,26,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,8,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,14,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,10,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,20,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,27,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,18,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,13,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,25,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,23,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,9,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,26,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,3,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,14,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,5,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,5,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,20,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,31,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,1,20,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,17,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,1,24,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,7,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,1,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,31,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,10,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,24,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,5,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,14,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,10,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,25,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,30,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,29,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,3,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,27,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,4,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,27,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,1,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,3,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,12,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,6,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,21,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,5,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,4,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,15,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,17,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,4,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,6,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,24,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,23,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,1,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,24,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,14,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,31,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,18,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,1,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,1,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,24,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,25,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,22,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,20,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,30,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,28,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,15,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,14,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,1,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,14,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,1,9,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,1,9,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,25,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,29,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,6,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,1,17,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,16,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,9,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,17,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,28,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,23,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,9,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,1,10,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,17,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,20,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,1,18,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,13,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,13,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,25,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,21,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,10,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,8,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,3,28,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,17,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,17,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,16,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,2,25,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,6,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,6,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,10,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,6,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,16,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,10,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,14,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,5,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,3,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,7,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,4,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,14,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,3,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,6,29,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,10,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,11,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,6,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,1,18,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,1,30,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,21,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,15,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,17,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,13,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,9,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,18,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,5,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,18,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,8,24,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,9,30,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,7,7,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,3,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,4,20,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,10,24,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,12,17,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,11,19,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Offence Against a Person,2021,5,3,0,0,OFFSET TO PROTECT PRIVACY,Grandview-Woodland,0.0,0.0
+Other Theft,2021,10,29,13,8,10XX COMMERCIAL DR,Grandview-Woodland,494937.3123,5458068.9084
+Other Theft,2021,4,19,12,0,10XX COMMERCIAL DR,Grandview-Woodland,494937.4981,5458087.0345
+Other Theft,2021,1,20,15,25,10XX COMMERCIAL DR,Grandview-Woodland,494946.6792,5458090.6068
+Other Theft,2021,10,22,9,0,10XX COTTON DR,Grandview-Woodland,494798.5713,5458176.9094
+Other Theft,2021,9,10,11,0,10XX ODLUM DR,Grandview-Woodland,494475.943,5458094.9912
+Other Theft,2021,8,5,12,30,10XX SALSBURY DR,Grandview-Woodland,495079.6916,5458036.0052
+Other Theft,2021,4,30,9,18,11XX COMMERCIAL DR,Grandview-Woodland,494936.2603,5457968.1825
+Other Theft,2021,3,8,12,38,11XX COMMERCIAL DR,Grandview-Woodland,494945.8412,5458009.0578
+Other Theft,2021,12,8,20,45,11XX LILY ST,Grandview-Woodland,495307.9456,5457973.8231
+Other Theft,2021,2,12,0,30,13XX CLARK DR,Grandview-Woodland,494380.4146,5457812.8547
+Other Theft,2021,1,21,17,14,13XX COMMERCIAL DR,Grandview-Woodland,494942.7237,5457796.0992
+Other Theft,2021,10,1,19,0,13XX COTTON DR,Grandview-Woodland,494802.6206,5457765.2543
+Other Theft,2021,1,25,11,25,13XX E 3RD AVE,Grandview-Woodland,494403.2321,5457230.137
+Other Theft,2021,6,6,5,0,13XX E 3RD AVE,Grandview-Woodland,494429.1135,5457239.0924
+Other Theft,2021,9,18,17,53,13XX E 7TH AVE,Grandview-Woodland,494467.1037,5456826.3341
+Other Theft,2021,3,25,15,33,13XX E 8TH AVE,Grandview-Woodland,494405.5841,5456727.3851
+Other Theft,2021,5,17,18,30,13XX E HASTINGS ST,Grandview-Woodland,494403.2984,5458730.3574
+Other Theft,2021,11,8,13,14,13XX E HASTINGS ST,Grandview-Woodland,494419.5553,5458730.0584
+Other Theft,2021,9,29,18,57,13XX SALSBURY DR,Grandview-Woodland,495075.6684,5457764.638
+Other Theft,2021,10,11,0,0,13XX SALSBURY DR,Grandview-Woodland,495075.6684,5457764.638
+Other Theft,2021,5,13,12,40,13XX VICTORIA DR,Grandview-Woodland,495225.8264,5457804.5334
+Other Theft,2021,1,11,10,3,13XX WOODLAND DR,Grandview-Woodland,494652.6231,5457768.0124
+Other Theft,2021,9,4,17,0,14XX CHARLES ST,Grandview-Woodland,494634.3405,5457808.6614
+Other Theft,2021,8,21,23,45,14XX COMMERCIAL DR,Grandview-Woodland,494931.2825,5457670.9954
+Other Theft,2021,8,24,18,30,14XX COMMERCIAL DR,Grandview-Woodland,494931.2825,5457670.9954
+Other Theft,2021,8,5,22,15,14XX COMMERCIAL DR,Grandview-Woodland,494931.385,5457677.2517
+Other Theft,2021,6,3,19,9,14XX COMMERCIAL DR,Grandview-Woodland,494940.0794,5457649.7131
+Other Theft,2021,11,2,14,30,14XX COTTON DR,Grandview-Woodland,494801.174,5457695.0162
+Other Theft,2021,8,2,22,0,14XX E 1ST AVE,Grandview-Woodland,494574.4473,5457427.9832
+Other Theft,2021,12,11,21,2,14XX E 1ST AVE,Grandview-Woodland,494576.8366,5457437.1033
+Other Theft,2021,6,1,23,41,14XX E HASTINGS ST,Grandview-Woodland,494501.9083,5458728.5407
+Other Theft,2021,8,21,20,55,14XX E HASTINGS ST,Grandview-Woodland,494501.9083,5458728.5407
+Other Theft,2021,1,22,18,0,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Other Theft,2021,3,1,16,21,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Other Theft,2021,3,5,15,14,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Other Theft,2021,3,22,19,59,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Other Theft,2021,5,23,16,14,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Other Theft,2021,7,30,10,50,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Other Theft,2021,8,28,9,11,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Other Theft,2021,11,11,11,0,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Other Theft,2021,11,20,12,5,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Other Theft,2021,12,13,13,57,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Other Theft,2021,12,15,8,35,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Other Theft,2021,6,30,9,17,14XX E HASTINGS ST,Grandview-Woodland,494563.7471,5458727.4016
+Other Theft,2021,10,14,18,56,14XX E HASTINGS ST,Grandview-Woodland,494588.8533,5458736.0844
+Other Theft,2021,10,26,10,42,14XX E HASTINGS ST,Grandview-Woodland,494588.8533,5458736.0844
+Other Theft,2021,12,25,17,5,14XX MCLEAN DR,Grandview-Woodland,494577.4139,5457645.6099
+Other Theft,2021,3,23,13,39,15XX COMMERCIAL DR,Grandview-Woodland,494930.0078,5457597.1021
+Other Theft,2021,2,23,16,15,15XX COMMERCIAL DR,Grandview-Woodland,494930.4929,5457623.17
+Other Theft,2021,1,5,10,36,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,1,7,10,15,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,1,9,11,5,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,1,11,12,36,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,2,3,17,37,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,3,4,11,17,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,3,5,13,0,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,3,13,9,22,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,3,19,10,33,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,4,1,12,36,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,4,2,18,23,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,4,6,11,29,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,4,6,15,0,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,4,19,17,57,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,4,26,13,53,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,5,17,18,25,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,8,4,16,33,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,8,6,14,54,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,9,2,10,1,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,9,7,13,23,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,9,12,18,50,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,10,23,13,30,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,10,24,13,13,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,10,28,21,0,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,10,31,15,2,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,11,17,15,6,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,11,17,17,7,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,11,19,19,29,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,12,22,13,13,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,12,22,17,10,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,12,23,15,4,15XX COMMERCIAL DR,Grandview-Woodland,494939.2671,5457603.2309
+Other Theft,2021,2,4,13,30,15XX COMMERCIAL DR,Grandview-Woodland,494939.2888,5457604.3799
+Other Theft,2021,3,22,13,20,15XX COMMERCIAL DR,Grandview-Woodland,494939.2888,5457604.3799
+Other Theft,2021,8,16,15,59,15XX COMMERCIAL DR,Grandview-Woodland,494939.2888,5457604.3799
+Other Theft,2021,9,7,16,52,15XX COMMERCIAL DR,Grandview-Woodland,494939.2888,5457604.3799
+Other Theft,2021,10,1,12,20,15XX COMMERCIAL DR,Grandview-Woodland,494939.2888,5457604.3799
+Other Theft,2021,10,28,14,26,15XX COMMERCIAL DR,Grandview-Woodland,494939.2888,5457604.3799
+Other Theft,2021,6,28,12,0,15XX E 4TH AVE,Grandview-Woodland,494739.0716,5457122.9209
+Other Theft,2021,2,8,17,22,15XX E HASTINGS ST,Grandview-Woodland,494614.7976,5458726.4563
+Other Theft,2021,4,27,12,44,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,8,3,19,25,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,9,19,8,46,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,10,29,15,35,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,11,3,12,26,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,11,23,12,18,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,11,28,12,4,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,11,28,12,49,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,12,11,10,12,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,12,11,16,29,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,12,13,11,22,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,12,22,10,24,15XX E HASTINGS ST,Grandview-Woodland,494620.9347,5458726.3382
+Other Theft,2021,10,26,11,0,15XX GRANT ST,Grandview-Woodland,494661.9486,5457629.7252
+Other Theft,2021,6,23,11,27,15XX GRANT ST,Grandview-Woodland,494715.234,5457629.0157
+Other Theft,2021,1,11,2,45,15XX POWELL ST,Grandview-Woodland,494630.7299,5458944.9983
+Other Theft,2021,1,6,20,37,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Other Theft,2021,3,18,7,18,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Other Theft,2021,8,14,0,0,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Other Theft,2021,8,19,14,0,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Other Theft,2021,12,25,0,0,15XX WOODLAND DR,Grandview-Woodland,494661.4366,5457582.4461
+Other Theft,2021,9,2,17,25,16XX COMMERCIAL DR,Grandview-Woodland,494927.2871,5457454.9981
+Other Theft,2021,1,18,9,26,16XX COMMERCIAL DR,Grandview-Woodland,494928.0189,5457492.2704
+Other Theft,2021,10,25,20,1,16XX COMMERCIAL DR,Grandview-Woodland,494937.3807,5457503.2726
+Other Theft,2021,3,7,13,23,16XX COMMERCIAL DR,Grandview-Woodland,494937.7832,5457523.7724
+Other Theft,2021,10,13,16,0,16XX E 1ST AVE,Grandview-Woodland,494818.0187,5457432.8464
+Other Theft,2021,11,18,18,29,16XX E 1ST AVE,Grandview-Woodland,494818.0187,5457432.8464
+Other Theft,2021,11,25,5,1,16XX E 1ST AVE,Grandview-Woodland,494856.0732,5457431.2335
+Other Theft,2021,1,8,10,0,16XX E 1ST AVE,Grandview-Woodland,494860.7599,5457421.8826
+Other Theft,2021,2,25,17,28,16XX E 1ST AVE,Grandview-Woodland,494860.7599,5457421.8826
+Other Theft,2021,3,7,21,30,16XX E 1ST AVE,Grandview-Woodland,494860.7599,5457421.8826
+Other Theft,2021,9,24,9,10,16XX E 1ST AVE,Grandview-Woodland,494860.7599,5457421.8826
+Other Theft,2021,11,9,10,0,16XX E 2ND AVE,Grandview-Woodland,494824.4043,5457334.9144
+Other Theft,2021,11,9,14,30,16XX E 2ND AVE,Grandview-Woodland,494824.4043,5457334.9144
+Other Theft,2021,11,5,16,45,16XX E 4TH AVE,Grandview-Woodland,494913.9272,5457121.4888
+Other Theft,2021,1,26,20,43,16XX E 5TH AVE,Grandview-Woodland,494870.4721,5457032.8672
+Other Theft,2021,1,19,17,8,16XX E 6TH AVE,Grandview-Woodland,494830.6149,5456932.7917
+Other Theft,2021,3,22,14,30,16XX E BROADWAY AVE,Grandview-Woodland,494869.7445,5456625.7217
+Other Theft,2021,6,9,15,12,16XX E BROADWAY AVE,Grandview-Woodland,494869.7445,5456625.7217
+Other Theft,2021,9,20,16,15,16XX E BROADWAY AVE,Grandview-Woodland,494869.7445,5456625.7217
+Other Theft,2021,8,8,12,0,16XX E GEORGIA ST,Grandview-Woodland,494753.8349,5458413.9021
+Other Theft,2021,5,4,17,0,16XX E HASTINGS ST,Grandview-Woodland,494735.1039,5458733.0755
+Other Theft,2021,11,27,18,0,16XX FRANCES ST,Grandview-Woodland,494742.666,5458523.5961
+Other Theft,2021,10,1,0,30,16XX GRANT ST,Grandview-Woodland,494841.9671,5457627.3628
+Other Theft,2021,3,31,0,0,16XX SALSBURY DR,Grandview-Woodland,495079.0117,5457492.6482
+Other Theft,2021,11,28,6,3,16XX TEMPLETON DR,Grandview-Woodland,495634.71,5457511.6577
+Other Theft,2021,2,19,9,0,16XX VENABLES ST,Grandview-Woodland,494868.1821,5458220.0705
+Other Theft,2021,2,19,10,0,16XX VENABLES ST,Grandview-Woodland,494868.1821,5458220.0705
+Other Theft,2021,12,6,18,30,16XX WOODLAND DR,Grandview-Woodland,494650.6337,5457499.4255
+Other Theft,2021,1,14,16,1,17XX CHARLES ST,Grandview-Woodland,494966.4634,5457806.379
+Other Theft,2021,8,31,10,12,17XX COMMERCIAL DR,Grandview-Woodland,494926.7565,5457405.6319
+Other Theft,2021,7,1,17,10,17XX COMMERCIAL DR,Grandview-Woodland,494935.8968,5457415.0779
+Other Theft,2021,11,25,11,40,17XX COMMERCIAL DR,Grandview-Woodland,494935.9128,5457375.5407
+Other Theft,2021,6,21,13,24,17XX E 2ND AVE,Grandview-Woodland,494971.1649,5457323.9248
+Other Theft,2021,12,17,13,27,17XX E 2ND AVE,Grandview-Woodland,495006.7379,5457332.5932
+Other Theft,2021,4,10,17,36,17XX E 5TH AVE,Grandview-Woodland,494972.428,5456999.4729
+Other Theft,2021,1,21,22,45,17XX E 5TH AVE,Grandview-Woodland,494994.8929,5457008.1228
+Other Theft,2021,1,16,0,7,17XX E BROADWAY AVE,Grandview-Woodland,494951.0401,5456624.5247
+Other Theft,2021,7,1,11,23,17XX E BROADWAY AVE,Grandview-Woodland,494951.0401,5456624.5247
+Other Theft,2021,7,11,22,0,17XX E BROADWAY AVE,Grandview-Woodland,494964.1181,5456624.3114
+Other Theft,2021,12,9,19,50,17XX E BROADWAY AVE,Grandview-Woodland,494999.8456,5456623.7287
+Other Theft,2021,10,9,0,12,17XX E BROADWAY AVE,Grandview-Woodland,495003.3523,5456623.6716
+Other Theft,2021,12,1,23,9,17XX E BROADWAY AVE,Grandview-Woodland,495003.3523,5456623.6716
+Other Theft,2021,12,7,10,2,17XX E BROADWAY AVE,Grandview-Woodland,495003.3523,5456623.6716
+Other Theft,2021,12,8,7,52,17XX E BROADWAY AVE,Grandview-Woodland,495003.3523,5456623.6716
+Other Theft,2021,12,10,10,0,17XX E BROADWAY AVE,Grandview-Woodland,495003.3523,5456623.6716
+Other Theft,2021,12,12,17,55,17XX E BROADWAY AVE,Grandview-Woodland,495003.3523,5456623.6716
+Other Theft,2021,12,13,16,52,17XX E BROADWAY AVE,Grandview-Woodland,495003.3523,5456623.6716
+Other Theft,2021,12,17,8,12,17XX E BROADWAY AVE,Grandview-Woodland,495003.3523,5456623.6716
+Other Theft,2021,9,29,9,0,17XX E PENDER ST,Grandview-Woodland,494953.1561,5458610.9566
+Other Theft,2021,6,8,8,2,17XX FRANKLIN ST,Grandview-Woodland,494959.3156,5458822.1629
+Other Theft,2021,12,5,0,1,17XX KITCHENER ST,Grandview-Woodland,495028.4635,5457715.047
+Other Theft,2021,6,20,12,20,17XX VENABLES ST,Grandview-Woodland,494930.7916,5458218.4347
+Other Theft,2021,7,4,11,30,17XX VENABLES ST,Grandview-Woodland,494930.7916,5458218.4347
+Other Theft,2021,7,14,11,37,18XX ADANAC ST,Grandview-Woodland,495130.3835,5458315.5153
+Other Theft,2021,3,3,14,0,18XX COMMERCIAL DR,Grandview-Woodland,494926.5022,5457267.8828
+Other Theft,2021,5,25,23,0,18XX COMMERCIAL DR,Grandview-Woodland,494926.701,5457310.5173
+Other Theft,2021,9,16,12,2,18XX COMMERCIAL DR,Grandview-Woodland,494926.7556,5457322.1451
+Other Theft,2021,8,8,1,0,18XX COMMERCIAL DR,Grandview-Woodland,494935.8562,5457312.825
+Other Theft,2021,10,5,8,0,18XX E 2ND AVE,Grandview-Woodland,495109.9327,5457322.0666
+Other Theft,2021,8,22,23,45,18XX E 8TH AVE,Grandview-Woodland,495130.7915,5456718.3293
+Other Theft,2021,9,2,15,37,18XX E GEORGIA ST,Grandview-Woodland,495137.7137,5458415.2534
+Other Theft,2021,1,3,17,45,18XX E HASTINGS ST,Grandview-Woodland,495042.898,5458718.235
+Other Theft,2021,12,14,16,0,18XX E HASTINGS ST,Grandview-Woodland,495077.01,5458717.6521
+Other Theft,2021,1,27,12,10,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,2,5,12,0,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,2,19,19,21,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,4,5,21,4,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,4,9,12,25,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,5,6,11,50,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,5,8,21,47,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,5,19,10,30,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,6,1,19,50,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,6,29,21,0,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,7,6,21,10,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,8,2,19,0,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,8,12,17,30,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,10,21,20,0,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,10,22,20,33,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,10,25,22,25,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,11,2,16,28,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,12,3,18,52,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,12,4,18,17,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,12,10,18,41,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Other Theft,2021,7,4,10,30,18XX FRANCES ST,Grandview-Woodland,495051.4711,5458516.9396
+Other Theft,2021,9,30,1,34,18XX GARDEN DR,Grandview-Woodland,495773.2048,5457266.3789
+Other Theft,2021,11,21,15,0,18XX GARDEN DR,Grandview-Woodland,495773.2048,5457266.3789
+Other Theft,2021,5,24,21,24,18XX PARKER ST,Grandview-Woodland,495181.1077,5458115.9338
+Other Theft,2021,3,16,18,0,18XX POWELL ST,Grandview-Woodland,495220.7638,5459121.972
+Other Theft,2021,8,29,0,0,19XX COMMERCIAL DR,Grandview-Woodland,494925.4958,5457169.6864
+Other Theft,2021,11,15,17,51,19XX E 1ST AVE,Grandview-Woodland,495277.2509,5457429.1456
+Other Theft,2021,9,11,22,44,19XX E 4TH AVE,Grandview-Woodland,495226.5401,5457118.3496
+Other Theft,2021,7,30,15,0,19XX E HASTINGS ST,Grandview-Woodland,495323.4557,5458722.542
+Other Theft,2021,7,30,21,24,19XX GRAVELEY ST,Grandview-Woodland,495297.6855,5457519.6779
+Other Theft,2021,8,22,18,0,19XX MCLEAN DR,Grandview-Woodland,494504.7853,5457175.4229
+Other Theft,2021,10,14,17,38,19XX POWELL ST,Grandview-Woodland,495242.3016,5459126.87
+Other Theft,2021,2,24,20,18,19XX POWELL ST,Grandview-Woodland,495306.5165,5459127.3223
+Other Theft,2021,12,19,6,50,19XX POWELL ST,Grandview-Woodland,495318.4081,5459127.406
+Other Theft,2021,3,10,12,45,19XX SEMLIN DR,Grandview-Woodland,495349.356,5457197.2087
+Other Theft,2021,5,10,0,0,19XX TRIUMPH ST,Grandview-Woodland,495354.4033,5459025.6931
+Other Theft,2021,5,12,12,0,1XX COMMERCIAL DR,Grandview-Woodland,494879.2709,5459002.4152
+Other Theft,2021,9,18,18,0,1XX LAKEWOOD DR,Grandview-Woodland,495520.5422,5458983.293
+Other Theft,2021,4,13,12,0,1XX SEMLIN DR,Grandview-Woodland,495380.9529,5458971.0405
+Other Theft,2021,8,8,12,30,1XX VICTORIA DR,Grandview-Woodland,495237.3198,5458933.9719
+Other Theft,2021,1,29,11,58,20XX COMMERCIAL DR,Grandview-Woodland,494923.3195,5457033.8341
+Other Theft,2021,6,2,0,9,20XX COMMERCIAL DR,Grandview-Woodland,494933.0586,5457080.9766
+Other Theft,2021,10,14,16,0,20XX E HASTINGS ST,Grandview-Woodland,495456.8995,5458711.4677
+Other Theft,2021,12,10,10,15,20XX E HASTINGS ST,Grandview-Woodland,495492.838,5458711.012
+Other Theft,2021,2,2,8,17,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,2,2,12,47,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,2,22,6,53,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,2,22,14,20,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,3,11,9,34,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,3,14,8,35,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,3,20,7,57,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,3,25,7,9,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,4,5,21,10,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,4,12,18,50,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,4,15,17,35,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,4,17,7,25,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,5,7,21,47,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,5,13,12,50,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,5,25,15,25,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,6,10,7,32,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,6,16,13,20,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,6,24,11,3,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,6,24,18,55,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,7,5,14,25,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,7,16,22,45,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,7,24,22,33,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,9,4,22,25,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,10,4,21,59,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,10,7,7,32,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,11,1,6,45,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,11,11,16,13,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,11,13,7,22,20XX E HASTINGS ST,Grandview-Woodland,495498.5008,5458710.9399
+Other Theft,2021,6,20,0,33,20XX E HASTINGS ST,Grandview-Woodland,495500.9849,5458710.9087
+Other Theft,2021,8,5,22,28,20XX E HASTINGS ST,Grandview-Woodland,495500.9849,5458710.9087
+Other Theft,2021,10,24,15,52,20XX E HASTINGS ST,Grandview-Woodland,495500.9849,5458710.9087
+Other Theft,2021,8,12,13,42,20XX E HASTINGS ST,Grandview-Woodland,495500.9849,5458710.9087
+Other Theft,2021,9,10,8,37,20XX E HASTINGS ST,Grandview-Woodland,495500.9849,5458710.9087
+Other Theft,2021,2,19,18,0,20XX FERNDALE ST,Grandview-Woodland,495459.2025,5458551.8929
+Other Theft,2021,9,2,23,0,20XX FRANKLIN ST,Grandview-Woodland,495423.1897,5458815.4676
+Other Theft,2021,10,25,19,0,20XX TRIUMPH ST,Grandview-Woodland,495425.2469,5459025.3442
+Other Theft,2021,9,8,13,51,20XX TURNER ST,Grandview-Woodland,495409.486,5458492.4961
+Other Theft,2021,4,26,15,21,21XX CAMBRIDGE ST,Grandview-Woodland,495615.2893,5459316.4634
+Other Theft,2021,10,30,0,45,21XX COMMERCIAL DR,Grandview-Woodland,494921.6552,5456931.8407
+Other Theft,2021,2,28,9,18,21XX DUNDAS ST,Grandview-Woodland,495566.7145,5459113.7877
+Other Theft,2021,12,16,15,0,21XX DUNDAS ST,Grandview-Woodland,495610.0048,5459123.126
+Other Theft,2021,1,17,14,56,21XX E 5TH AVE,Grandview-Woodland,495524.6416,5457014.8955
+Other Theft,2021,4,22,10,30,21XX FERNDALE ST,Grandview-Woodland,495565.6447,5458551.4184
+Other Theft,2021,7,21,11,12,21XX GRANT ST,Grandview-Woodland,495558.1795,5457605.312
+Other Theft,2021,9,10,1,51,21XX GRAVELEY ST,Grandview-Woodland,495515.9309,5457516.2498
+Other Theft,2021,4,5,5,5,21XX OXFORD ST,Grandview-Woodland,495554.0073,5459215.5464
+Other Theft,2021,12,13,21,0,21XX PANDORA ST,Grandview-Woodland,495589.4001,5458915.7622
+Other Theft,2021,8,24,1,0,21XX PARKER ST,Grandview-Woodland,495601.8977,5458097.1017
+Other Theft,2021,3,30,13,45,21XX TRIUMPH ST,Grandview-Woodland,495624.4044,5459015.2328
+Other Theft,2021,6,21,23,0,21XX TRIUMPH ST,Grandview-Woodland,495626.0726,5459015.2249
+Other Theft,2021,5,5,3,6,22XX ADANAC ST,Grandview-Woodland,495734.5698,5458299.0341
+Other Theft,2021,6,10,12,42,22XX COMMERCIAL DR,Grandview-Woodland,494920.5117,5456848.9071
+Other Theft,2021,10,9,14,34,22XX COMMERCIAL DR,Grandview-Woodland,494929.6297,5456846.9244
+Other Theft,2021,7,3,5,20,22XX COMMERCIAL DR,Grandview-Woodland,494930.639,5456921.2652
+Other Theft,2021,12,5,17,25,22XX DUNDAS ST,Grandview-Woodland,495683.01,5459123.0402
+Other Theft,2021,10,14,0,0,22XX E 8TH AVE,Grandview-Woodland,495752.8976,5456709.4499
+Other Theft,2021,9,3,9,47,22XX E HASTINGS ST,Grandview-Woodland,495665.5285,5458719.5337
+Other Theft,2021,9,8,17,32,22XX E HASTINGS ST,Grandview-Woodland,495665.5285,5458719.5337
+Other Theft,2021,11,16,19,58,22XX E HASTINGS ST,Grandview-Woodland,495665.5285,5458719.5337
+Other Theft,2021,4,9,17,30,22XX MCGILL ST,Grandview-Woodland,495660.5355,5459526.7353
+Other Theft,2021,12,24,12,0,22XX PANDORA ST,Grandview-Woodland,495733.2171,5458922.8419
+Other Theft,2021,9,8,21,0,23XX CHARLES ST,Grandview-Woodland,495822.2855,5457792.4253
+Other Theft,2021,3,25,15,1,23XX COMMERCIAL DR,Grandview-Woodland,494929.294,5456822.6503
+Other Theft,2021,10,10,14,0,23XX COMMERCIAL DR,Grandview-Woodland,494928.4765,5456771.171
+Other Theft,2021,7,7,14,40,23XX E 1ST AVE,Grandview-Woodland,495879.0823,5457402.4156
+Other Theft,2021,7,31,15,50,23XX E HASTINGS ST,Grandview-Woodland,495801.5476,5458709.9704
+Other Theft,2021,10,20,17,0,23XX E HASTINGS ST,Grandview-Woodland,495801.5476,5458709.9704
+Other Theft,2021,5,3,16,26,23XX E HASTINGS ST,Grandview-Woodland,495803.3054,5458719.109
+Other Theft,2021,4,7,19,0,23XX E HASTINGS ST,Grandview-Woodland,495820.598,5458719.0551
+Other Theft,2021,12,18,19,41,23XX E HASTINGS ST,Grandview-Woodland,495845.0,5458718.9789
+Other Theft,2021,11,3,17,0,23XX E PENDER ST,Grandview-Woodland,495817.2658,5458614.9426
+Other Theft,2021,7,9,18,0,23XX MCLEAN DR,Grandview-Woodland,494497.3652,5456766.5918
+Other Theft,2021,12,14,23,0,23XX WALL ST,Grandview-Woodland,495812.2538,5459730.7757
+Other Theft,2021,9,25,13,0,24XX NANAIMO ST,Grandview-Woodland,495878.0607,5456604.3075
+Other Theft,2021,4,16,20,39,24XX NANAIMO ST,Grandview-Woodland,495879.0014,5456665.5836
+Other Theft,2021,4,10,12,0,3XX LAKEWOOD DR,Grandview-Woodland,495509.2205,5458792.3962
+Other Theft,2021,11,30,20,47,3XX WOODLAND DR,Grandview-Woodland,494721.8688,5458801.5908
+Other Theft,2021,6,16,16,30,4XX MCLEAN DR,Grandview-Woodland,494613.9645,5458703.2272
+Other Theft,2021,4,25,12,59,5XX CLARK DR,Grandview-Woodland,494392.1958,5458614.4256
+Other Theft,2021,9,15,15,18,6XX LAKEWOOD DR,Grandview-Woodland,495504.5031,5458440.8258
+Other Theft,2021,12,12,14,15,7XX TEMPLETON DR,Grandview-Woodland,495654.5945,5458388.7117
+Other Theft,2021,12,12,14,30,7XX TEMPLETON DR,Grandview-Woodland,495654.5945,5458388.7117
+Other Theft,2021,6,1,19,30,7XX WOODLAND DR,Grandview-Woodland,494706.7373,5458410.6251
+Other Theft,2021,1,12,14,0,8XX COMMERCIAL DR,Grandview-Woodland,494878.881,5458271.362
+Other Theft,2021,11,12,4,15,8XX COMMERCIAL DVRS N,Grandview-Woodland,494952.1343,5458235.0886
+Other Theft,2021,9,28,14,28,9XX COMMERCIAL DR,Grandview-Woodland,494948.9184,5458157.0936
+Other Theft,2021,10,12,20,0,9XX COMMERCIAL DR,Grandview-Woodland,494948.9184,5458157.0936
+Other Theft,2021,9,11,7,0,9XX COMMERCIAL DR,Grandview-Woodland,494950.6703,5458194.9653
+Other Theft,2021,10,3,22,0,CHARLES ST / COMMERCIAL DR,Grandview-Woodland,494938.4455,5457811.215
+Other Theft,2021,3,9,1,30,COMMERCIAL DR / E HASTINGS ST,Grandview-Woodland,494879.8653,5458723.9695
+Other Theft,2021,4,25,17,31,COMMERCIAL DR / E PENDER ST,Grandview-Woodland,494877.6344,5458616.8141
+Other Theft,2021,8,8,8,52,COMMERCIAL DR / FRANCES ST,Grandview-Woodland,494875.8825,5458516.2507
+Other Theft,2021,8,24,11,45,COMMERCIAL DR / KITCHENER ST,Grandview-Woodland,494936.513,5457711.1521
+Other Theft,2021,5,1,12,48,COMMERCIAL DR / NAPIER ST,Grandview-Woodland,494941.3236,5458014.1765
+Other Theft,2021,6,17,17,0,E 5TH AVE / NANAIMO ST,Grandview-Woodland,495883.2407,5457016.5688
+Other Theft,2021,11,19,7,41,E BROADWAY AVE / NANAIMO ST,Grandview-Woodland,495882.5349,5456597.9017
+Other Theft,2021,5,12,11,32,E HASTINGS ST / GARDEN DR,Grandview-Woodland,495793.3959,5458714.5678
+Other Theft,2021,4,21,20,10,E HASTINGS ST / MCLEAN DR,Grandview-Woodland,494609.4772,5458731.1317
+Other Theft,2021,6,21,18,22,E HASTINGS ST / MCLEAN DR,Grandview-Woodland,494609.4772,5458731.1317
+Other Theft,2021,10,31,17,16,E HASTINGS ST / MCLEAN DR,Grandview-Woodland,494609.4772,5458731.1317
+Other Theft,2021,6,20,19,0,E HASTINGS ST / NANAIMO ST,Grandview-Woodland,495887.5446,5458714.2743
+Other Theft,2021,8,2,20,13,E PENDER ST / SEMLIN DR,Grandview-Woodland,495370.2025,5458611.4413
+Other Theft,2021,7,13,13,0,E PENDER ST / VICTORIA DR,Grandview-Woodland,495229.7805,5458611.8948
+Theft from Vehicle,2021,8,20,16,0,10XX LAKEWOOD DR,Grandview-Woodland,495501.5843,5458088.9394
+Theft from Vehicle,2021,3,31,22,0,10XX SEMLIN DR,Grandview-Woodland,495362.2659,5458088.4958
+Theft from Vehicle,2021,12,1,7,0,10XX VICTORIA DR,Grandview-Woodland,495230.1067,5458105.8604
+Theft from Vehicle,2021,9,22,17,35,11XX COMMERCIAL DR,Grandview-Woodland,494945.8412,5458009.0578
+Theft from Vehicle,2021,2,24,20,0,11XX LILY ST,Grandview-Woodland,495307.8484,5457913.4063
+Theft from Vehicle,2021,4,13,9,53,11XX MCLEAN DR,Grandview-Woodland,494578.5842,5457976.6092
+Theft from Vehicle,2021,3,8,8,0,11XX MCLEAN DR,Grandview-Woodland,494587.8778,5458012.8367
+Theft from Vehicle,2021,10,26,0,0,11XX ODLUM DR,Grandview-Woodland,494483.8219,5458006.2206
+Theft from Vehicle,2021,9,26,3,45,11XX ROSE ST,Grandview-Woodland,495431.1061,5457994.5427
+Theft from Vehicle,2021,1,9,19,0,11XX VICTORIA DR,Grandview-Woodland,495219.5868,5458001.6289
+Theft from Vehicle,2021,2,10,20,0,12XX GARDEN DR,Grandview-Woodland,495780.9763,5457874.3881
+Theft from Vehicle,2021,11,22,8,0,12XX GARDEN DR,Grandview-Woodland,495790.4304,5457893.0307
+Theft from Vehicle,2021,7,25,22,0,13XX ADANAC ST,Grandview-Woodland,494444.125,5458330.0403
+Theft from Vehicle,2021,2,4,16,0,13XX COMMERCIAL DR,Grandview-Woodland,494942.2722,5457772.6754
+Theft from Vehicle,2021,7,10,21,0,13XX COTTON DR,Grandview-Woodland,494802.5374,5457782.6216
+Theft from Vehicle,2021,3,2,12,0,13XX E 3RD AVE,Grandview-Woodland,494429.1135,5457239.0924
+Theft from Vehicle,2021,4,13,12,0,13XX E 8TH AVE,Grandview-Woodland,494405.5841,5456727.3851
+Theft from Vehicle,2021,7,4,21,46,13XX E 8TH AVE,Grandview-Woodland,494405.5841,5456727.3851
+Theft from Vehicle,2021,10,26,3,26,13XX E GEORGIA ST,Grandview-Woodland,494466.0869,5458419.5866
+Theft from Vehicle,2021,6,2,0,0,13XX E HASTINGS ST,Grandview-Woodland,494417.2723,5458739.2455
+Theft from Vehicle,2021,5,12,17,0,13XX E PENDER ST,Grandview-Woodland,494398.8819,5458620.7091
+Theft from Vehicle,2021,3,18,8,29,13XX FRANKLIN ST,Grandview-Woodland,494410.7953,5458831.7079
+Theft from Vehicle,2021,9,15,5,0,13XX GRANT ST,Grandview-Woodland,494495.101,5457634.1772
+Theft from Vehicle,2021,10,10,20,30,13XX GRANT ST,Grandview-Woodland,494495.101,5457634.1772
+Theft from Vehicle,2021,1,8,17,45,13XX MCLEAN DR,Grandview-Woodland,494577.6434,5457742.7845
+Theft from Vehicle,2021,6,2,12,0,13XX NAPIER ST,Grandview-Woodland,494378.8938,5458018.6597
+Theft from Vehicle,2021,10,8,13,11,13XX POWELL ST,Grandview-Woodland,494410.2455,5458923.1957
+Theft from Vehicle,2021,9,5,20,0,13XX POWELL ST,Grandview-Woodland,494412.4845,5458923.3931
+Theft from Vehicle,2021,9,19,1,0,13XX SALSBURY DR,Grandview-Woodland,495075.771,5457771.331
+Theft from Vehicle,2021,9,25,21,30,13XX SALSBURY DR,Grandview-Woodland,495085.4265,5457804.8154
+Theft from Vehicle,2021,6,7,0,0,14XX COMMERCIAL DR,Grandview-Woodland,494931.7437,5457699.1488
+Theft from Vehicle,2021,5,26,19,30,14XX COTTON DR,Grandview-Woodland,494801.174,5457695.0162
+Theft from Vehicle,2021,6,18,18,0,14XX E 1ST AVE,Grandview-Woodland,494574.4473,5457427.9832
+Theft from Vehicle,2021,10,10,19,30,14XX E 1ST AVE,Grandview-Woodland,494574.4473,5457427.9832
+Theft from Vehicle,2021,7,2,0,0,14XX E 2ND AVE,Grandview-Woodland,494542.7171,5457337.8258
+Theft from Vehicle,2021,1,21,21,30,14XX E 7TH AVE,Grandview-Woodland,494535.6496,5456824.9358
+Theft from Vehicle,2021,11,23,2,49,14XX E HASTINGS ST,Grandview-Woodland,494561.0742,5458727.4506
+Theft from Vehicle,2021,10,3,14,25,14XX FRANCES ST,Grandview-Woodland,494521.566,5458519.2129
+Theft from Vehicle,2021,11,18,11,0,14XX GRANT ST,Grandview-Woodland,494556.3597,5457632.0121
+Theft from Vehicle,2021,8,7,12,0,14XX GRAVELEY ST,Grandview-Woodland,494521.7217,5457529.9973
+Theft from Vehicle,2021,12,27,19,0,14XX MCLEAN DR,Grandview-Woodland,494577.4022,5457640.9766
+Theft from Vehicle,2021,2,14,4,38,14XX NAPIER ST,Grandview-Woodland,494484.557,5458015.7453
+Theft from Vehicle,2021,10,15,23,59,14XX NAPIER ST,Grandview-Woodland,494522.9342,5458023.9297
+Theft from Vehicle,2021,3,30,21,0,14XX POWELL ST,Grandview-Woodland,494557.0168,5458945.1363
+Theft from Vehicle,2021,9,12,1,0,14XX VICTORIA DR,Grandview-Woodland,495215.3189,5457701.9113
+Theft from Vehicle,2021,10,4,13,16,14XX WILLIAM ST,Grandview-Woodland,494483.0076,5457915.9739
+Theft from Vehicle,2021,1,30,8,10,14XX WILLIAM ST,Grandview-Woodland,494538.3804,5457923.7763
+Theft from Vehicle,2021,1,2,15,0,14XX WILLIAM ST,Grandview-Woodland,494649.1099,5457912.6228
+Theft from Vehicle,2021,7,19,23,57,15XX E 1ST AVE,Grandview-Woodland,494660.7106,5457427.0447
+Theft from Vehicle,2021,7,19,20,0,15XX E 5TH AVE,Grandview-Woodland,494661.1572,5457026.4001
+Theft from Vehicle,2021,9,12,3,0,15XX E 5TH AVE,Grandview-Woodland,494755.6684,5457034.3358
+Theft from Vehicle,2021,12,3,21,0,15XX E 6TH AVE,Grandview-Woodland,494728.632,5456934.748
+Theft from Vehicle,2021,11,5,0,0,15XX E BROADWAY AVE,Grandview-Woodland,494668.7821,5456628.503
+Theft from Vehicle,2021,11,13,3,0,15XX E HASTINGS ST,Grandview-Woodland,494702.2158,5458724.7723
+Theft from Vehicle,2021,9,28,14,0,15XX E HASTINGS ST,Grandview-Woodland,494703.9379,5458724.7389
+Theft from Vehicle,2021,11,19,1,0,15XX E PENDER ST,Grandview-Woodland,494650.9494,5458616.2771
+Theft from Vehicle,2021,7,6,15,13,15XX FRANCES ST,Grandview-Woodland,494614.255,5458517.266
+Theft from Vehicle,2021,9,20,0,0,15XX FRANCES ST,Grandview-Woodland,494698.5347,5458524.5362
+Theft from Vehicle,2021,9,26,12,0,15XX GRANDVIEW HWY N,Grandview-Woodland,494722.1936,5456883.9423
+Theft from Vehicle,2021,1,13,22,19,15XX GRANT ST,Grandview-Woodland,494664.6999,5457629.6889
+Theft from Vehicle,2021,7,26,13,0,15XX GRANT ST,Grandview-Woodland,494677.3335,5457629.5206
+Theft from Vehicle,2021,11,19,0,30,15XX GRAVELEY ST,Grandview-Woodland,494662.7308,5457527.9088
+Theft from Vehicle,2021,7,26,4,50,15XX KITCHENER ST,Grandview-Woodland,494662.9514,5457709.7614
+Theft from Vehicle,2021,5,14,23,0,15XX KITCHENER ST,Grandview-Woodland,494727.7288,5457708.7643
+Theft from Vehicle,2021,10,20,16,30,15XX POWELL ST,Grandview-Woodland,494636.66,5458946.5124
+Theft from Vehicle,2021,9,12,12,0,15XX POWELL ST,Grandview-Woodland,494669.9779,5458964.4564
+Theft from Vehicle,2021,9,21,2,49,15XX SALSBURY DR,Grandview-Woodland,495079.9082,5457611.8615
+Theft from Vehicle,2021,7,26,4,0,15XX SALSBURY DR,Grandview-Woodland,495080.3791,5457587.7487
+Theft from Vehicle,2021,8,16,12,35,15XX TEMPLETON DR,Grandview-Woodland,495635.4276,5457559.2973
+Theft from Vehicle,2021,5,24,20,0,15XX VICTORIA DR,Grandview-Woodland,495222.0364,5457583.5787
+Theft from Vehicle,2021,7,4,23,0,16XX ADANAC ST,Grandview-Woodland,494716.9576,5458314.3773
+Theft from Vehicle,2021,7,17,15,3,16XX ADANAC ST,Grandview-Woodland,494716.9576,5458314.3773
+Theft from Vehicle,2021,2,1,22,0,16XX ADANAC ST,Grandview-Woodland,494820.258,5458321.0258
+Theft from Vehicle,2021,10,10,18,0,16XX CLARK DR,Grandview-Woodland,494377.2761,5457518.9585
+Theft from Vehicle,2021,12,20,19,0,16XX COMMERCIAL DR,Grandview-Woodland,494927.7262,5457477.3615
+Theft from Vehicle,2021,2,15,14,25,16XX COMMERCIAL DR,Grandview-Woodland,494927.9092,5457486.6796
+Theft from Vehicle,2021,9,30,18,30,16XX COTTON DR,Grandview-Woodland,494788.9616,5457464.6325
+Theft from Vehicle,2021,11,30,15,15,16XX E 1ST AVE,Grandview-Woodland,494856.0732,5457431.2335
+Theft from Vehicle,2021,11,12,12,0,16XX E 3RD AVE,Grandview-Woodland,494807.6947,5457234.2906
+Theft from Vehicle,2021,7,26,0,0,16XX E 5TH AVE,Grandview-Woodland,494787.6889,5457024.7816
+Theft from Vehicle,2021,5,5,0,0,16XX E 6TH AVE,Grandview-Woodland,494789.6941,5456924.4315
+Theft from Vehicle,2021,10,14,8,30,16XX E BROADWAY AVE,Grandview-Woodland,494869.7445,5456625.7217
+Theft from Vehicle,2021,3,1,12,0,16XX E GEORGIA ST,Grandview-Woodland,494719.6095,5458414.47
+Theft from Vehicle,2021,9,8,22,0,16XX E GEORGIA ST,Grandview-Woodland,494810.0574,5458412.9698
+Theft from Vehicle,2021,5,26,6,0,16XX E PENDER ST,Grandview-Woodland,494723.357,5458614.9868
+Theft from Vehicle,2021,1,9,1,0,16XX E PENDER ST,Grandview-Woodland,494777.182,5458623.1744
+Theft from Vehicle,2021,7,20,17,0,16XX E PENDER ST,Grandview-Woodland,494821.7378,5458613.2361
+Theft from Vehicle,2021,7,22,0,0,16XX E PENDER ST,Grandview-Woodland,494824.719,5458613.183
+Theft from Vehicle,2021,8,28,12,0,16XX FRANCES ST,Grandview-Woodland,494742.666,5458523.5961
+Theft from Vehicle,2021,10,29,21,0,16XX FRANCES ST,Grandview-Woodland,494754.3993,5458514.206
+Theft from Vehicle,2021,10,30,3,0,16XX FRANCES ST,Grandview-Woodland,494754.3993,5458514.206
+Theft from Vehicle,2021,12,12,7,5,16XX FRANCES ST,Grandview-Woodland,494754.3993,5458514.206
+Theft from Vehicle,2021,3,25,19,0,16XX FRANCES ST,Grandview-Woodland,494775.2655,5458513.7717
+Theft from Vehicle,2021,9,21,20,0,16XX GRANT ST,Grandview-Woodland,494802.4373,5457627.8592
+Theft from Vehicle,2021,1,19,23,0,16XX GRANT ST,Grandview-Woodland,494841.9671,5457627.3628
+Theft from Vehicle,2021,4,9,12,52,16XX GRANT ST,Grandview-Woodland,494895.2666,5457626.693
+Theft from Vehicle,2021,4,8,0,0,16XX GRANT ST,Grandview-Woodland,494895.6329,5457626.6884
+Theft from Vehicle,2021,1,30,9,0,16XX PANDORA ST,Grandview-Woodland,494728.5538,5458925.3364
+Theft from Vehicle,2021,7,4,13,51,16XX VENABLES ST,Grandview-Woodland,494808.8313,5458211.9787
+Theft from Vehicle,2021,12,22,20,0,16XX VENABLES ST,Grandview-Woodland,494808.8313,5458211.9787
+Theft from Vehicle,2021,6,30,20,0,17XX CHARLES ST,Grandview-Woodland,494991.7711,5457815.2858
+Theft from Vehicle,2021,2,24,5,23,17XX CHARLES ST,Grandview-Woodland,495016.188,5457805.911
+Theft from Vehicle,2021,11,10,16,30,17XX CLARK DR,Grandview-Woodland,494375.6777,5457384.2148
+Theft from Vehicle,2021,2,10,20,0,17XX COTTON DR,Grandview-Woodland,494797.1979,5457384.293
+Theft from Vehicle,2021,2,14,23,0,17XX E 2ND AVE,Grandview-Woodland,495020.0332,5457323.2704
+Theft from Vehicle,2021,2,16,12,0,17XX E 2ND AVE,Grandview-Woodland,495048.3255,5457322.8915
+Theft from Vehicle,2021,4,27,17,34,17XX E 4TH AVE,Grandview-Woodland,494966.5056,5457144.9083
+Theft from Vehicle,2021,8,26,20,0,17XX E 6TH AVE,Grandview-Woodland,495031.614,5456920.4391
+Theft from Vehicle,2021,11,1,19,0,17XX E 7TH AVE,Grandview-Woodland,494938.8792,5456820.5137
+Theft from Vehicle,2021,7,27,18,0,17XX E GEORGIA ST,Grandview-Woodland,494882.0052,5458411.7778
+Theft from Vehicle,2021,10,14,3,54,17XX E GEORGIA ST,Grandview-Woodland,494882.0052,5458411.7778
+Theft from Vehicle,2021,1,13,16,30,17XX E GEORGIA ST,Grandview-Woodland,494921.8411,5458420.2667
+Theft from Vehicle,2021,9,1,22,0,17XX E GEORGIA ST,Grandview-Woodland,494981.3691,5458419.2858
+Theft from Vehicle,2021,11,8,16,16,17XX E HASTINGS ST,Grandview-Woodland,494887.5052,5458719.3478
+Theft from Vehicle,2021,9,20,21,10,17XX E HASTINGS ST,Grandview-Woodland,494955.1202,5458728.0526
+Theft from Vehicle,2021,9,2,12,0,17XX E PENDER ST,Grandview-Woodland,494885.2581,5458612.1117
+Theft from Vehicle,2021,6,8,13,45,17XX E PENDER ST,Grandview-Woodland,494899.4035,5458611.8711
+Theft from Vehicle,2021,7,31,2,0,17XX E PENDER ST,Grandview-Woodland,494919.3626,5458620.6769
+Theft from Vehicle,2021,8,6,0,1,17XX E PENDER ST,Grandview-Woodland,494919.3626,5458620.6769
+Theft from Vehicle,2021,12,6,15,0,17XX E PENDER ST,Grandview-Woodland,494953.1561,5458610.9566
+Theft from Vehicle,2021,1,24,13,30,17XX FRANKLIN ST,Grandview-Woodland,494889.03,5458823.346
+Theft from Vehicle,2021,6,7,21,30,17XX MCLEAN DR,Grandview-Woodland,494517.7364,5457428.1286
+Theft from Vehicle,2021,8,20,23,0,17XX MCLEAN DR,Grandview-Woodland,494517.7364,5457428.1286
+Theft from Vehicle,2021,3,3,20,0,17XX MCSPADDEN AVE,Grandview-Woodland,495017.5248,5457070.4283
+Theft from Vehicle,2021,9,17,12,0,17XX NAPIER ST,Grandview-Woodland,495011.4124,5458018.0892
+Theft from Vehicle,2021,8,10,0,0,17XX POWELL ST,Grandview-Woodland,494890.3227,5459021.1375
+Theft from Vehicle,2021,12,23,18,0,17XX POWELL ST,Grandview-Woodland,494922.4079,5459029.5649
+Theft from Vehicle,2021,1,18,0,0,17XX VENABLES ST,Grandview-Woodland,494877.1464,5458219.8911
+Theft from Vehicle,2021,1,2,19,0,17XX VENABLES ST,Grandview-Woodland,495000.6292,5458217.0578
+Theft from Vehicle,2021,4,7,20,0,17XX VICTORIA DR,Grandview-Woodland,495209.8887,5457340.1387
+Theft from Vehicle,2021,5,10,22,36,17XX VICTORIA DR,Grandview-Woodland,495219.986,5457419.3281
+Theft from Vehicle,2021,7,3,23,24,17XX WILLIAM ST,Grandview-Woodland,494947.2839,5457908.1063
+Theft from Vehicle,2021,9,10,16,0,17XX WOODLAND DR,Grandview-Woodland,494647.4359,5457359.5932
+Theft from Vehicle,2021,5,15,12,50,18XX ADANAC ST,Grandview-Woodland,495056.9832,5458316.6393
+Theft from Vehicle,2021,11,14,1,0,18XX ADANAC ST,Grandview-Woodland,495130.2435,5458306.3724
+Theft from Vehicle,2021,3,8,21,0,18XX ADANAC ST,Grandview-Woodland,495138.0413,5458315.398
+Theft from Vehicle,2021,8,13,15,0,18XX ADANAC ST,Grandview-Woodland,495138.0413,5458315.398
+Theft from Vehicle,2021,9,22,3,0,18XX CHARLES ST,Grandview-Woodland,495085.0855,5457805.2503
+Theft from Vehicle,2021,1,23,23,0,18XX CHARLES ST,Grandview-Woodland,495085.1993,5457814.3936
+Theft from Vehicle,2021,1,5,10,1,18XX COMMERCIAL DR,Grandview-Woodland,494926.4841,5457264.0069
+Theft from Vehicle,2021,6,30,20,0,18XX E 2ND AVE,Grandview-Woodland,495156.1535,5457321.4478
+Theft from Vehicle,2021,11,24,19,30,18XX E 2ND AVE,Grandview-Woodland,495171.2784,5457321.2453
+Theft from Vehicle,2021,10,10,9,0,18XX E 7TH AVE,Grandview-Woodland,495068.4153,5456819.4617
+Theft from Vehicle,2021,6,25,23,0,18XX E 7TH AVE,Grandview-Woodland,495083.067,5456828.4868
+Theft from Vehicle,2021,6,10,22,0,18XX E 8TH AVE,Grandview-Woodland,495154.4337,5456717.9925
+Theft from Vehicle,2021,11,19,23,39,18XX E HASTINGS ST,Grandview-Woodland,495077.01,5458717.6521
+Theft from Vehicle,2021,2,6,19,30,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Theft from Vehicle,2021,10,25,22,25,18XX E HASTINGS ST,Grandview-Woodland,495079.3488,5458717.6124
+Theft from Vehicle,2021,8,5,5,0,18XX E HASTINGS ST,Grandview-Woodland,495115.6381,5458716.9922
+Theft from Vehicle,2021,8,16,20,0,18XX E PENDER ST,Grandview-Woodland,495041.5152,5458609.507
+Theft from Vehicle,2021,5,23,0,1,18XX E PENDER ST,Grandview-Woodland,495117.4726,5458617.7705
+Theft from Vehicle,2021,8,4,19,0,18XX FRANCES ST,Grandview-Woodland,495142.1716,5458505.9162
+Theft from Vehicle,2021,7,27,12,0,18XX FRANCES ST,Grandview-Woodland,495164.2522,5458514.6052
+Theft from Vehicle,2021,10,29,17,0,18XX GARDEN DR,Grandview-Woodland,495781.9726,5457240.3407
+Theft from Vehicle,2021,3,8,10,12,18XX GRAVELEY ST,Grandview-Woodland,495080.9738,5457524.5171
+Theft from Vehicle,2021,4,12,16,0,18XX GRAVELEY ST,Grandview-Woodland,495080.9738,5457524.5171
+Theft from Vehicle,2021,5,5,12,0,18XX GRAVELEY ST,Grandview-Woodland,495122.1905,5457532.6134
+Theft from Vehicle,2021,12,13,17,0,18XX GRAVELEY ST,Grandview-Woodland,495146.9907,5457522.8096
+Theft from Vehicle,2021,3,21,8,0,18XX LAKEWOOD DR,Grandview-Woodland,495492.6842,5457319.9709
+Theft from Vehicle,2021,8,13,0,0,18XX PANDORA ST,Grandview-Woodland,495102.8778,5458920.3214
+Theft from Vehicle,2021,8,14,0,0,18XX PANDORA ST,Grandview-Woodland,495108.8029,5458920.2351
+Theft from Vehicle,2021,9,5,18,0,18XX PARKER ST,Grandview-Woodland,495119.2572,5458116.611
+Theft from Vehicle,2021,6,13,17,0,18XX PARKER ST,Grandview-Woodland,495181.1077,5458115.9338
+Theft from Vehicle,2021,7,9,3,39,18XX SEMLIN DR,Grandview-Woodland,495360.4358,5457318.2163
+Theft from Vehicle,2021,6,19,22,0,18XX TRIUMPH ST,Grandview-Woodland,495039.0564,5458964.486
+Theft from Vehicle,2021,1,4,1,37,18XX TRIUMPH ST,Grandview-Woodland,495046.8182,5458966.8776
+Theft from Vehicle,2021,1,11,23,0,18XX TRIUMPH ST,Grandview-Woodland,495082.473,5458987.4304
+Theft from Vehicle,2021,3,16,20,30,18XX WILLIAM ST,Grandview-Woodland,495130.5081,5457914.1477
+Theft from Vehicle,2021,7,17,1,0,19XX ADANAC ST,Grandview-Woodland,495325.3727,5458303.3399
+Theft from Vehicle,2021,3,17,20,45,19XX E 2ND AVE,Grandview-Woodland,495267.387,5457319.9566
+Theft from Vehicle,2021,9,3,22,0,19XX E 4TH AVE,Grandview-Woodland,495253.6041,5457118.0641
+Theft from Vehicle,2021,12,22,21,0,19XX E 5TH AVE,Grandview-Woodland,495249.5549,5457018.0493
+Theft from Vehicle,2021,2,2,22,30,19XX FERNDALE ST,Grandview-Woodland,495263.123,5458543.629
+Theft from Vehicle,2021,9,6,23,0,19XX FRANKLIN ST,Grandview-Woodland,495295.0641,5458816.8224
+Theft from Vehicle,2021,7,5,9,15,19XX FRANKLIN ST,Grandview-Woodland,495300.4317,5458816.779
+Theft from Vehicle,2021,6,2,22,0,19XX GRANT ST,Grandview-Woodland,495224.8577,5457610.8323
+Theft from Vehicle,2021,5,31,18,0,19XX GRANT ST,Grandview-Woodland,495271.36,5457610.7534
+Theft from Vehicle,2021,7,7,15,0,19XX GRAVELEY ST,Grandview-Woodland,495217.674,5457520.9367
+Theft from Vehicle,2021,8,28,6,41,19XX GRAVELEY ST,Grandview-Woodland,495260.4882,5457520.2631
+Theft from Vehicle,2021,6,1,21,0,19XX GRAVELEY ST,Grandview-Woodland,495263.2521,5457529.3648
+Theft from Vehicle,2021,9,30,16,20,19XX KITCHENER ST,Grandview-Woodland,495254.2405,5457701.5487
+Theft from Vehicle,2021,3,21,0,0,19XX TEMPLETON DR,Grandview-Woodland,495639.9483,5457213.3772
+Theft from Vehicle,2021,12,20,11,40,19XX TRIUMPH ST,Grandview-Woodland,495248.7487,5459026.1998
